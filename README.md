@@ -1,6 +1,8 @@
 # Kamruzzaman Joty | Research website
 
-Editable Quarto source and a rendered review copy are included. Nothing in this package has been deployed. Open `_site/index.html` after extracting the ZIP to browse the local review copy. Quarto search and some browser features work best through `quarto preview` rather than file URLs.
+Live website: https://kamruzzamanjoty.github.io/
+
+This repository contains the editable Quarto source. The website was deployed through GitHub Actions on October 11, 2026. Generated HTML is built during the workflow and is not committed. Use `quarto preview` to browse a local copy.
 
 ## Local use
 
@@ -21,9 +23,9 @@ The GitHub Actions workflow uses the same Quarto version. Styling is split betwe
 
 ## GitHub Pages deployment
 
-Account changes and publication require the owner's approval. No GitHub identity or repository has been assumed.
+The owner approved this initial publication. The public repository is `kamruzzamanjoty/kamruzzamanjoty.github.io`; Pages uses GitHub Actions with HTTPS enabled. Future research-content publication requires review.
 
-After approval and authenticated account verification:
+For a fresh deployment or a future copy of this project:
 
 1. Check whether an existing website repository already exists. Do not overwrite one without explicit permission.
 2. Create the approved public repository, normally `<username>.github.io` for a root personal website, or use the approved existing repository.

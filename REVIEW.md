@@ -4,7 +4,7 @@
 
 A personal research and engineering portfolio for Kamruzzaman Joty, Ph.D. candidate in Mechanical Engineering at Southern Methodist University.
 
-The proposed public repository would contain all `.qmd` page text, styling, favicon, README, this review, and the build workflow. Rendered pages would be available on GitHub Pages. Repository creation, Pages activation, and public deployment have not occurred.
+The proposed public repository would contain all `.qmd` page text, styling, favicon, README, this review, and the build workflow. Rendered pages would be available on GitHub Pages. Repository creation, Pages configuration, and the initial public deployment were completed on October 11, 2026.
 
 ## Pages ready for content approval
 
@@ -26,9 +26,9 @@ No private phone number, personal financial information, detailed patent materia
 
 Quarto 1.10.19 renders all 12 pages. The final link checker verifies local page links, asset references, and fragment targets, and checks for unfinished starter labels. No stylesheet parsing warnings remain after moving ordinary CSS rules out of the SCSS analysis path.
 
-A browser preview was unavailable in this session. Responsive CSS was reviewed, but desktop/mobile visual appearance and interactive search have not been verified in a live browser.
+The live homepage was visually checked in a desktop browser. Navigation to Publications and search for DNA origami were verified. The homepage has one H1 and no horizontal overflow at the inspected viewport. Mobile visual appearance has not been directly verified.
 
-The GitHub workflow has been prepared but not executed on GitHub. It builds on pushes and pull requests and publishes only on a manual run with the approval input enabled. GitHub account identity is verified as kamruzzamanjoty. The expected website repository was not found through the connector. Pages configuration, custom domain status, and the live URL remain unverified.
+The GitHub workflow was executed successfully on GitHub. It builds on pushes and pull requests and publishes only on a manual run with the approval input enabled. GitHub account identity and repository ownership were verified as kamruzzamanjoty. Pages is configured for GitHub Actions; both build and deploy jobs succeeded in run 38182835204. The live default-domain site was checked. No custom domain was configured.
 
 ## Sources checked
 
@@ -39,4 +39,4 @@ The GitHub workflow has been prepared but not executed on GitHub. It builds on p
 
 ## Approval requested
 
-The owner approved publishing this version, creating the public kamruzzamanjoty/kamruzzamanjoty.github.io repository, and enabling GitHub Pages on October 11, 2026. The connector lacks repository-creation and Pages-configuration operations; browser fallback is pending. If an existing website repository is found, its contents must be reviewed before any update.
+The owner approved publishing this version, creating the public kamruzzamanjoty/kamruzzamanjoty.github.io repository, and enabling GitHub Pages on October 11, 2026. The owner also approved browser fallback, which was used for repository creation, Pages configuration, and manual workflow dispatch. The new repository did not overwrite an existing website.
