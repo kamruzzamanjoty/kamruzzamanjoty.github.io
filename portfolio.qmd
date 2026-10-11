@@ -1,0 +1,28 @@
+---
+title: "Engineering Portfolio"
+subtitle: "Fabrication, instrumentation, modeling, and data"
+---
+
+My engineering work connects nanoscale device fabrication with electrical measurement and computational interpretation.
+
+## Nanofabrication and device integration
+
+Research experience includes solid-state nanopore fabrication and characterization, heterogeneous membrane preparation, and integration of devices into experimental measurement systems.
+
+[Multilayer nanopore research](projects/heterostructures.qmd)
+
+## Instrumentation and automation
+
+Controlled dielectric breakdown and electrical characterization link fabrication with data acquisition. Experimental automation supports repeatable procedures and organized measurement workflows.
+
+[Instrumentation project](projects/instrumentation.qmd)
+
+## Modeling and analysis
+
+COMSOL finite-element simulations examine electric-field distributions. Signal processing, event-feature extraction, and supervised learning support comparisons across devices and experimental conditions.
+
+[Computational methods](projects/modeling-ml.qmd)
+
+## Semiconductor coursework
+
+Graduate laboratory coursework provided exposure to compound semiconductor fabrication and device characterization. This preparation is distinct from my hands-on research in nanopore fabrication.

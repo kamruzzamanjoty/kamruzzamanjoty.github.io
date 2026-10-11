@@ -1,0 +1,20 @@
+---
+title: "Multilayer Heterostructure Nanopores"
+subtitle: "Material interfaces and molecular transport"
+---
+
+This project studies silicon nitride membranes combined with graphene, MoS₂, and hBN.
+
+## Research question
+
+How do layered materials and asymmetric pore geometry affect molecular transport?
+
+## Approach
+
+Electrical measurements and numerical modeling are used to examine relationships between pore geometry, electric fields, and directional protein transport.
+
+## Research scope
+
+The project connects membrane architecture with the interpretation of ionic-current signals. Quantitative results and device images will be linked after publication records and release permissions are reviewed.
+
+[← All research projects](../research.qmd)

@@ -1,0 +1,20 @@
+---
+title: "Programmable Nanopore Fabrication"
+subtitle: "Instrumentation and automation"
+---
+
+This work concerns controlled dielectric breakdown, electrolyte-assisted pore fabrication, electrical measurements, and automation of experimental procedures.
+
+## Research question
+
+How can electrical fabrication methods be organized into repeatable experimental workflows?
+
+## Approach
+
+The work connects pore formation, electrical characterization, and experimental data acquisition.
+
+## Research scope
+
+The engineering focus is on measurement control and workflow automation. Detailed hardware designs and fabrication protocols will be added following public-release review.
+
+[← All research projects](../research.qmd)

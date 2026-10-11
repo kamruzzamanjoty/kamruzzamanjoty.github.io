@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "projects/*.qmd"
+
+website:
+  title: "Kamruzzaman Joty"
+  site-url: "https://kamruzzamanjoty.github.io"
+  description: "Research and engineering portfolio of Kamruzzaman Joty"
+  favicon: assets/favicon.svg
+  navbar:
+    background: "#0d2038"
+    foreground: "#ffffff"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: portfolio.qmd
+        text: Engineering
+      - href: experience.qmd
+        text: Experience
+      - href: writing.qmd
+        text: Writing
+      - href: cv.qmd
+        text: Profile
+      - href: contact.qmd
+        text: Contact
+  page-footer:
+    left: "© Kamruzzaman Joty"
+    right: "Built with Quarto · Hosted on GitHub Pages"
+  search: true
+  back-to-top-navigation: true
+
+format:
+  html:
+    theme: [cosmo, styles/custom.scss]
+    css: styles/custom.css
+    toc: true
+    smooth-scroll: true
+    title-block-banner: false
+    lang: en
+    link-external-newwindow: true
+    page-layout: article

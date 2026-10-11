@@ -1,0 +1,28 @@
+---
+title: "Research"
+subtitle: "Nanoscale devices and molecular transport"
+---
+
+My research focuses on fabricating and characterizing solid-state and hybrid nanopores, with particular attention to how pore geometry, material interfaces, and molecular structure influence ionic-current signals.
+
+## Research projects
+
+### DNA origami hybrid nanopores
+
+DNA origami can be incorporated into a solid-state nanopore to modify its sensing environment. Our published work examined protein translocation measurements using this hybrid configuration. [Project details](projects/dna-origami.qmd).
+
+### Multilayer heterostructure nanopores
+
+Layered structures combining silicon nitride with two-dimensional materials provide a route to examine asymmetric molecular transport. [Project details](projects/heterostructures.qmd).
+
+### α-Hemolysin hybrid nanopores
+
+Ongoing research investigates biological pore integration with fabricated nanostructures. This work is at the research stage; unpublished results are not included here.
+
+### Programmable nanopore fabrication
+
+Automated electrical methods support controlled pore formation and experimental repeatability. [Project details](projects/instrumentation.qmd).
+
+## Research methods
+
+Solid-state nanopore fabrication, controlled dielectric breakdown, ionic-current acquisition, membrane heterostructures, experimental signal analysis, COMSOL modeling, and statistical learning.

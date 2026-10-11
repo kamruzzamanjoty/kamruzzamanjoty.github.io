@@ -1,0 +1,63 @@
+name: Build and publish Quarto website
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+    inputs:
+      publish:
+        description: 'I approve the current research content and public GitHub Pages deployment'
+        required: true
+        type: boolean
+        default: false
+permissions:
+  contents: read
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: read
+    steps:
+      - uses: actions/checkout@v6
+      - uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: '1.10.19'
+      - name: Read GitHub Pages configuration
+        if: github.event_name == 'workflow_dispatch' && inputs.publish
+        id: pages
+        uses: actions/configure-pages@v5
+      - name: Set deployment URL
+        env:
+          PAGES_URL: ${{ steps.pages.outputs.base_url }}
+        run: |
+          python3 - <<'PY'
+          import json, os
+          owner, repo = os.environ['GITHUB_REPOSITORY'].split('/')
+          url = os.environ.get('PAGES_URL') or ('https://' + owner + '.github.io' + ('' if repo.lower() == owner.lower() + '.github.io' else '/' + repo))
+          with open('_quarto-pages.yml', 'w') as f:
+              json.dump({'website': {'site-url': url}}, f)
+          PY
+      - name: Render
+        run: quarto render --profile pages
+      - name: Check pages and internal links
+        run: python3 scripts/check_site.py _site
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+  deploy:
+    if: github.event_name == 'workflow_dispatch' && inputs.publish
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      pages: write
+      id-token: write
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

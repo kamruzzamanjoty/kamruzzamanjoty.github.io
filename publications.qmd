@@ -1,0 +1,14 @@
+---
+title: "Publications"
+subtitle: "Selected peer-reviewed research"
+---
+
+## 2024
+
+**Kamruzzaman Joty**, Madhav L. Ghimire, Jason S. Kahn, Sangyoup Lee, George Alexandrakis, and Min Jun Kim. [DNA Origami Incorporated into Solid-State Nanopores Enables Enhanced Sensitivity for Precise Analysis of Protein Translocations](https://doi.org/10.1021/acs.analchem.4c02016). *Analytical Chemistry*, **96**(44), 17496–17505 (2024).
+
+This study compares protein measurements through conventional solid-state nanopores and nanopores incorporating DNA origami.
+
+[Read the article](https://doi.org/10.1021/acs.analchem.4c02016){.btn .btn-primary} [Explore the project](projects/dna-origami.qmd){.btn .btn-outline-primary}
+
+Additional publications and conference contributions will be listed as their records are verified.

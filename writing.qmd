@@ -1,0 +1,16 @@
+---
+title: "Writing"
+subtitle: "An introduction to the measurements behind my research"
+---
+
+## What is a nanopore?
+
+A nanopore is a small opening through a membrane. In a typical sensing experiment, an electrolyte fills the chambers on both sides. An applied voltage drives ions through the opening, producing a measurable electrical current.
+
+When a molecule enters the sensing region, it can change that current. Researchers study the size, duration, and shape of these changes to compare molecular events. A current change alone does not identify a molecule; interpretation depends on the device, experimental conditions, and supporting evidence.
+
+## What makes it a hybrid nanopore?
+
+A hybrid nanopore combines a fabricated pore with another structure or material that changes its sensing environment. In my DNA origami research, a folded DNA structure is captured at a solid-state pore. The study compares protein measurements before and after this integration.
+
+[Read about the DNA origami project](projects/dna-origami.qmd)

@@ -1,0 +1,38 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+::: {.hero}
+<div class="eyebrow">Researcher · Engineer · Ph.D. Candidate</div>
+
+# Kamruzzaman Joty
+
+**Nanoscale devices. Molecular measurements. Engineering methods.**
+
+I am a Mechanical Engineering Ph.D. candidate at Southern Methodist University. My work connects nanoscale device fabrication, experimental measurement, and data analysis to study molecular transport and develop single-molecule sensing platforms.
+
+<div class="hero-actions"><a href="research.html">Explore research →</a><a class="secondary" href="portfolio.html">Engineering portfolio →</a></div>
+:::
+
+::: {.container-lg}
+
+<p class="section-label">RESEARCH / ENGINEERING</p>
+
+## Selected research
+
+<div class="project-grid">
+<div class="project-card"><div class="tag">Published research</div><h3>DNA origami hybrid nanopores</h3><p>Incorporating three-dimensional DNA origami into solid-state nanopores to improve protein translocation measurements.</p><a href="projects/dna-origami.html">Explore project →</a></div>
+<div class="project-card"><div class="tag">Research project</div><h3>Multilayer heterostructure nanopores</h3><p>Investigating how layered two-dimensional materials and pore geometry affect directional molecular transport.</p><a href="projects/heterostructures.html">Explore project →</a></div>
+<div class="project-card"><div class="tag">Instrumentation</div><h3>Programmable nanopore fabrication</h3><p>Experimental automation and controlled dielectric breakdown for nanoscale device fabrication.</p><a href="projects/instrumentation.html">Explore project →</a></div>
+<div class="project-card"><div class="tag">Computational research</div><h3>Modeling and machine learning</h3><p>Multiphysics simulations and event-level analysis for understanding and classifying nanopore measurements.</p><a href="projects/modeling-ml.html">Explore project →</a></div>
+</div>
+
+## About my work
+
+My research spans membrane fabrication, heterogeneous interfaces, ionic-current measurements, and computational interpretation of single-molecule events. I am also interested in applying my experience in cleanroom processing, instrumentation, and data-driven characterization to semiconductor and nanomanufacturing engineering.
+
+[Read my research overview](research.html) · [See publications](publications.html) · [Contact me](contact.html)
+
+:::

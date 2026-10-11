@@ -1,0 +1,24 @@
+---
+title: "DNA Origami Hybrid Nanopores"
+subtitle: "Published research"
+---
+
+DNA origami structures can be captured at solid-state nanopores, creating a hybrid sensing interface.
+
+## Research question
+
+How does adding a folded DNA structure change protein measurements through a solid-state nanopore?
+
+## Approach
+
+The published study compares measurements of holo human serum transferrin using open solid-state nanopores and DNA origami hybrid nanopores. The approach combines ionic-current measurements with analysis of molecular events.
+
+## Research scope
+
+The article reports improved protein sensing with DNA origami integration. The complete methods, results, and limitations are available in the peer-reviewed paper.
+
+## Publication
+
+[Joty et al., Analytical Chemistry (2024)](https://doi.org/10.1021/acs.analchem.4c02016).
+
+[← All research projects](../research.qmd)

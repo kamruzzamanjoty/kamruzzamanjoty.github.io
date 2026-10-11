@@ -1,0 +1,26 @@
+---
+title: "Professional Profile"
+subtitle: "Research and engineering experience"
+---
+
+## Current role
+
+**Ph.D. Candidate in Mechanical Engineering**  
+Southern Methodist University, Dallas, Texas
+
+**Research Assistant, BAST Laboratory**  
+Research in nanopore fabrication, single-molecule measurement, computational modeling, and experimental analysis.
+
+## Technical focus
+
+- **Fabrication:** solid-state nanopores, controlled dielectric breakdown, and heterogeneous membrane integration.
+- **Measurement:** ionic-current experiments, electrical characterization, data acquisition, and experimental automation.
+- **Computation:** COMSOL modeling, signal processing, event-feature extraction, and supervised machine learning.
+
+## Semiconductor preparation
+
+Graduate coursework and laboratory exposure to compound semiconductor fabrication and device characterization complement my research in nanoscale sensing devices.
+
+[Engineering portfolio](portfolio.qmd){.btn .btn-primary} [Experience and service](experience.qmd){.btn .btn-outline-primary}
+
+Downloadable CV and resume files will be added after review for public release.

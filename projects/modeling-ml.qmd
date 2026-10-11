@@ -1,0 +1,20 @@
+---
+title: "COMSOL Modeling and Machine Learning"
+subtitle: "Computational methods"
+---
+
+Finite-element simulations and event-level analysis support the interpretation of nanopore measurements.
+
+## Research question
+
+How can modeling and data analysis help compare devices and experimental conditions?
+
+## Approach
+
+COMSOL simulations examine electric-field distributions in heterogeneous nanopores. Signal analysis extracts event features for statistical comparisons and supervised learning.
+
+## Research scope
+
+Modeling provides a way to examine proposed physical explanations; statistical learning provides a way to assess differences in measured signals. Model performance depends on validation and the separation of training and evaluation data.
+
+[← All research projects](../research.qmd)
