@@ -1,20 +1,20 @@
 ---
-title: "Programmable Nanopore Fabrication"
-subtitle: "Instrumentation and automation"
+title: "P.O.R.E.: Programmable Nanopore Fabrication"
+subtitle: "Instrumentation and experimental automation"
 ---
 
-This work concerns controlled dielectric breakdown, electrolyte-assisted pore fabrication, electrical measurements, and automation of experimental procedures.
+**P.O.R.E. — Programmable Ohmic Research Engine** is a programmable platform for low-cost solid-state nanopore fabrication.
 
 ## Research question
 
-How can electrical fabrication methods be organized into repeatable experimental workflows?
+How can electrical control and experimental instrumentation be integrated into repeatable nanopore-fabrication workflows?
 
-## Approach
+## Contributions
 
-The work connects pore formation, electrical characterization, and experimental data acquisition.
+I contributed to the platform’s development by supporting integration of electrical control, experimental instrumentation, and device-fabrication workflows. I also participated in platform characterization and experimental validation, and contributed to the publication describing the system.
 
-## Research scope
+## Publication
 
-The engineering focus is on measurement control and workflow automation. Detailed hardware designs and fabrication protocols will be added following public-release review.
+[Gu et al., IEEE Access (2026)](https://doi.org/10.1109/ACCESS.2026.3727354) describes the platform and its validation.
 
 [← All research projects](../research.qmd)

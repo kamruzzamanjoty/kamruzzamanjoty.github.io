@@ -1,20 +1,22 @@
 ---
 title: "COMSOL Modeling and Machine Learning"
-subtitle: "Computational methods"
+subtitle: "Computational methods for nanopore measurements"
 ---
 
-Finite-element simulations and event-level analysis support the interpretation of nanopore measurements.
+Finite-element simulations and event-level analysis support the interpretation of nanopore measurements and comparisons across device architectures.
 
 ## Research question
 
-How can modeling and data analysis help compare devices and experimental conditions?
+How can modeling and data analysis connect heterogeneous nanopore structure with electric fields, transport behavior, and measured signals?
 
-## Approach
+## Approach and contributions
 
-COMSOL simulations examine electric-field distributions in heterogeneous nanopores. Signal analysis extracts event features for statistical comparisons and supervised learning.
+I used COMSOL simulations to investigate electric-field distributions and transport behavior in heterogeneous nanopores. Quantitative signal analysis and event-feature extraction support statistical comparisons and machine-learning classification of experimental signals.
 
-## Research scope
+In this research, I developed structural-classification approaches that achieved **more than 96% classification accuracy** on the experimental signals studied. This result describes the specific research analysis; performance on other devices or datasets requires separate evaluation.
 
-Modeling provides a way to examine proposed physical explanations; statistical learning provides a way to assess differences in measured signals. Model performance depends on validation and the separation of training and evaluation data.
+## Related work
+
+[Multilayer heterostructure research](heterostructures.qmd) connects these methods with device fabrication and directional transport. [Research presentations](../talks-news.qmd#research-presentations) include my work on machine-learning-enabled nanopore biosensing.
 
 [← All research projects](../research.qmd)

@@ -1,0 +1,22 @@
+---
+title: "DNA-Hosted Silver Nanoclusters"
+subtitle: "Voltage-dependent transport and electrolyte stability"
+---
+
+DNA-hosted silver nanoclusters combine a DNA template with nanoscale silver clusters. Solid-state nanopore measurements provide a way to examine their transport and stability.
+
+## Research question
+
+How do applied voltage, pore geometry, and electrolyte conditions affect the translocation signals and stability of DNA-hosted silver nanoclusters?
+
+## Approach and contributions
+
+I investigated voltage-dependent translocation and electrolyte-dependent stability, comparing DNA templates with and without silver nanoclusters across pore geometries and applied voltages. Experimental signal analysis examined the effects of cluster formation and electrolyte conditions.
+
+## Publication and cover
+
+[Joty et al., ACS Applied Materials & Interfaces (2025)](https://doi.org/10.1021/acsami.5c02405) reports the complete methods, results, and limitations.
+
+The publication was featured on a supplementary journal cover. [View the cover gallery](../covers.qmd).
+
+[← All research projects](../research.qmd)

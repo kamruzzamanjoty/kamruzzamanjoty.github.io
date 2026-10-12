@@ -3,10 +3,11 @@ title: "Contact"
 subtitle: "Research, engineering, and collaboration"
 ---
 
-**Kamruzzaman Joty**  
-Ph.D. Candidate, Mechanical Engineering  
-[BAST Laboratory](https://bastlabs.org/) · Southern Methodist University  
-Dallas, Texas, United States
+**Kamruzzaman Joty**\
+Ph.D. Candidate, Mechanical Engineering\
+[BAST Laboratory](https://bastlabs.org/) · Southern Methodist University\
+Dallas, Texas, United States\
+[Email: kjoty@smu.edu](mailto:kjoty@smu.edu)
 
 My interests include hybrid nanopore sensing, nanoscale device fabrication, experimental instrumentation, and computational analysis.
 

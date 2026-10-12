@@ -1,28 +1,56 @@
 ---
 title: "Resume & Professional Profile"
-subtitle: "Research and engineering experience"
+subtitle: "Education, research, and recognition"
 ---
 
 [Download resume (PDF)](assets/Kamruzzaman-Joty-Resume.pdf){.btn .btn-primary}
 
-## Current role
+## Education
 
-**Ph.D. Candidate in Mechanical Engineering**  
-Southern Methodist University, Dallas, Texas
+### Southern Methodist University · Dallas, Texas
 
-**Research Assistant, [BAST Laboratory](https://bastlabs.org/)**  
-Research in nanopore fabrication, single-molecule measurement, computational modeling, and experimental analysis.
+**Ph.D. in Mechanical Engineering · Expected May 2027**\
+Dissertation: *Hybrid Nanopores for Next-Generation Single-Molecule Sensing*\
+Advisor: Professor MinJun Kim
 
-## Technical focus
+### SEGi University · Selangor, Malaysia
 
-- **Fabrication:** solid-state nanopores, controlled dielectric breakdown, and heterogeneous membrane integration.
-- **Measurement:** ionic-current experiments, electrical characterization, data acquisition, and experimental automation.
-- **Computation:** COMSOL modeling, signal processing, event-feature extraction, and supervised machine learning.
+**Bachelor of Engineering in Mechanical Engineering · February 2022**\
+Undergraduate thesis: *Numerical Investigation of Onera M6 Forward and Backward Swept C-Wing Configuration at Supersonic Speed*\
+Advisor: Engr. Vincent Tai
 
-## Semiconductor preparation
+## Research appointment
 
-Graduate coursework and laboratory exposure to compound semiconductor fabrication and device characterization complement my research in nanoscale sensing devices.
+**Research Assistant · January 2023–Present**\
+Department of Mechanical Engineering, Southern Methodist University\
+[BAST Laboratory](https://bastlabs.org/) · Advisor: Professor MinJun Kim
 
-[Engineering portfolio](portfolio.qmd){.btn .btn-primary} [Experience and service](experience.qmd){.btn .btn-outline-primary}
+My work combines nanoscale fabrication, heterogeneous materials integration, experimental process development, electrical and materials characterization, and single-molecule transport. I contribute to experimental analysis, manuscripts, intellectual property, and research proposals, and support undergraduate and graduate laboratory activities.
 
+## Research interests
 
+Advanced manufacturing and nanomanufacturing; nanoscale process development; solid-state and hybrid devices; heterogeneous integration; semiconductor and two-dimensional materials; experimental instrumentation and metrology; multiphysics transport; data-driven manufacturing and machine learning; single-molecule sensing.
+
+## Honors and awards
+
+| Year | Recognition |
+|:--|:--|
+| 2026 | Senior Award, SMU Student Senate |
+| 2026 | Second Place, Outstanding Research & Presentation Award, SMU Industry Innovation Summit |
+| 2025 | Shared People’s Choice Award, SMU Three Minute Thesis Competition |
+| 2025 | Engineering is Art Award, SMU Lyle School of Engineering |
+| 2024 | Best Presentation Award, SMU Research & Innovation Week Poster Competition |
+| 2022 | Institution of Mechanical Engineers (IMechE) Project Award |
+| 2020 | Frederic Barnes Waldron Best Student Award |
+| 2017–2022 | Seven Dean’s List Awards |
+| 2018–2019 | Three High Achievers Awards |
+| 2017–2020 | Merit Scholarship |
+| 2018 | IMechE Conference Grant |
+
+## Professional affiliations
+
+- Student Member, American Society of Mechanical Engineers (ASME).
+- Graduate Student Member, Alpha Chi National College Honor Society.
+- Former Associate Member, Institution of Mechanical Engineers (IMechE), 2018–2023.
+
+[Engineering portfolio](portfolio.qmd){.btn .btn-primary} [Teaching, experience & service](experience.qmd){.btn .btn-outline-primary}

@@ -3,18 +3,30 @@ title: "Multilayer Heterostructure Nanopores"
 subtitle: "Material interfaces and molecular transport"
 ---
 
-This project studies silicon nitride membranes combined with graphene, MoS₂, and hBN.
+This project studies silicon nitride membranes combined with graphene, MoS₂, and hexagonal boron nitride (hBN).
 
 ## Research question
 
-How do layered materials and asymmetric pore geometry affect molecular transport?
+How do fabrication routes, material interfaces, and nanoscale geometry influence device behavior and directional molecular transport?
 
-## Approach
+## Approach and contributions
 
-Electrical measurements and numerical modeling are used to examine relationships between pore geometry, electric fields, and directional protein transport.
+I applied and adapted the laboratory’s previously developed **chemically tuned controlled dielectric breakdown (CT-CDB)** method to heterogeneous multilayer devices. Fabrication and electrical characterization covered five architectures:
 
-## Research scope
+- SiNₓ/graphene
+- SiNₓ/MoS₂
+- SiNₓ/hBN
+- SiNₓ/graphene/MoS₂
+- SiNₓ/graphene/hBN
 
-The project connects membrane architecture with the interpretation of ionic-current signals. Quantitative results and device images will be linked after publication records and release permissions are reviewed.
+Comparative experiments examined directional transport through these structures. Numerical modeling and quantitative signal analysis investigated electric-field distributions and transport behavior, with machine learning supporting structural classification of experimental signals.
+
+## Related publications
+
+- [Heterogenous Multilayer Nanopores via Chemically Tuned Dielectric Breakdown for Single-Molecule Sensing — Small (2026)](https://doi.org/10.1002/smll.202513242)
+- [Directional Single-Protein Transport Enabled by 2D Material Heterointerfaces in Solid-State Nanopores — ACS Applied Nano Materials (2026)](https://doi.org/10.1021/acsanm.6c01041)
+- [Direction-Aware Signal Analysis for Protein Translocation in Multilayer Solid-State Nanopores — IEEE DCAS (2026)](https://doi.org/10.1109/DCAS69364.2026.11544297)
+
+This work also contributed to the pending U.S. provisional patent application **“Heterogeneous Multilayer Nanopores,” No. 63/998,374**, filed **September 28, 2026**. [Publication and patent list](../publications.qmd).
 
 [← All research projects](../research.qmd)

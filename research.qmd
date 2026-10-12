@@ -1,28 +1,50 @@
 ---
 title: "Research"
-subtitle: "Nanoscale devices and molecular transport"
+subtitle: "Nanoscale manufacturing, devices, and molecular transport"
 ---
 
-My research focuses on fabricating and characterizing solid-state and hybrid nanopores, with particular attention to how pore geometry, material interfaces, and molecular structure influence ionic-current signals.
+My research connects nanoscale process development and heterogeneous materials integration with single-molecule measurement. I study how fabrication, pore geometry, material interfaces, and molecular structure influence transport and ionic-current signals in solid-state and hybrid nanopores.
 
 ## Research projects
 
 ### DNA origami hybrid nanopores
 
-DNA origami can be incorporated into a solid-state nanopore to modify its sensing environment. Our published work examined protein translocation measurements using this hybrid configuration. [Project details](projects/dna-origami.qmd).
+Programmable DNA nanostructures modify the sensing environment of a solid-state nanopore. Our published work examined confinement, DNA–protein interactions, and enhanced sensitivity for holo-human serum transferrin. [Project details](projects/dna-origami.qmd).
 
 ### Multilayer heterostructure nanopores
 
-Layered structures combining silicon nitride with two-dimensional materials provide a route to examine asymmetric molecular transport. [Project details](projects/heterostructures.qmd).
+I applied the laboratory’s existing CT-CDB method to silicon nitride structures incorporating graphene, MoS₂, and hBN, studying material interfaces, electric fields, and directional protein transport. [Project details](projects/heterostructures.qmd).
+
+### DNA-hosted silver nanoclusters
+
+This published study examines voltage-dependent translocation and electrolyte-dependent stability of DNA-hosted silver nanoclusters, comparing DNA templates with and without clusters. [Project details](projects/silver-nanoclusters.qmd).
 
 ### α-Hemolysin hybrid nanopores
 
-Ongoing research investigates biological pore integration with fabricated nanostructures. This work is at the research stage; unpublished results are not included here.
+My ongoing work investigates α-hemolysin integration with glass nanopipettes through electrophoretic capture. The research examines device stability, electrical characteristics, experimental troubleshooting, and signal analysis.
 
 ### Programmable nanopore fabrication
 
-Automated electrical methods support controlled pore formation and experimental repeatability. [Project details](projects/instrumentation.qmd).
+I contributed to P.O.R.E., a low-cost programmable fabrication platform, including electrical control, instrumentation integration, platform characterization, and experimental validation. [Project details](projects/instrumentation.qmd).
+
+### Multiphysics modeling and machine learning
+
+Electric-field simulations and event-level signal analysis help relate device architecture to transport behavior and support classification of experimental signals. [Project details](projects/modeling-ml.qmd).
 
 ## Research methods
 
-Solid-state nanopore fabrication, controlled dielectric breakdown, ionic-current acquisition, membrane heterostructures, experimental signal analysis, COMSOL modeling, and statistical learning.
+Solid-state and hybrid nanopore fabrication; CT-CDB; heterogeneous membrane integration; ionic-current acquisition; electrical, SEM, and AFM characterization; experimental signal analysis; COMSOL modeling; statistical analysis and machine learning.
+
+## Research proposal development
+
+### NSF-oriented concept: DNA origami and hybrid nanopore sensing
+
+I contributed to a research concept and technical proposal narrative addressing DNA-origami deformability, hybrid nanopore integration, and single-molecule characterization. Contributions included scientific background, proposed experimental approaches, anticipated outcomes, challenges, and alternative strategies.
+
+### DARPA PROSE-related concept and technical materials
+
+I contributed technical content and presentation materials concerning heterogeneous solid-state nanopores, integrated electrical sensing, and high-throughput molecular analysis, supporting collaborative research development.
+
+These activities describe **proposal-development contributions**; they do not represent awarded research funding.
+
+[Peer-reviewed publications](publications.qmd) · [Research presentations](talks-news.qmd)

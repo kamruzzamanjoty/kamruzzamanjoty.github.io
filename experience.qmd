@@ -1,16 +1,69 @@
 ---
-title: "Experience & Service"
+title: "Experience, Teaching & Service"
 ---
 
 ## Research experience
 
-**Research Assistant**, BAST Laboratory, Southern Methodist University. Nanopore fabrication, single-molecule experiments, computational modeling, and experimental analysis.
+**Research Assistant · BAST Laboratory, Southern Methodist University · January 2023–Present**
 
-## Academic service and outreach
+I conduct research in nanoscale fabrication, materials integration, device characterization, and single-molecule transport. My responsibilities include electrical measurements, experimental data analysis, manuscript and proposal contributions, and support for undergraduate and graduate laboratory activities. [Explore my research](research.qmd).
 
-- Lyle School representative, SMU Student Senate
-- American Red Cross volunteer transport specialist
-- Dallas Regional Science and Engineering Fair judge
-- Student mentoring and laboratory instruction
+## Teaching and laboratory instruction
 
+**Teaching Assistant / Laboratory Assistant · SMU Department of Mechanical Engineering · 2024–2025**
 
+| Course | Role |
+|:--|:--|
+| ME 2342 — Fluid Mechanics | Teaching Assistant |
+| ME 2131 — Thermodynamics | Teaching Assistant |
+| ME 3132 — Heat Transfer | Teaching Assistant |
+| ME 701C — Nano-Biomanufacturing Laboratory | Laboratory Assistant |
+
+I supervised and mentored student groups through experimental planning, apparatus operation, data collection, quantitative analysis, and technical reporting. Responsibilities included explaining theoretical and experimental principles, evaluating laboratory reports, providing feedback, and supporting students through demonstrations and individual assistance.
+
+## Student research mentoring
+
+**Instructor and Research Mentor · Governor’s Science and Technology Champions’ Academy (GSTCA) · SMU · 2025**
+
+I mentored high-school students in hands-on nanopore experiments, laboratory procedures, experimental data analysis, and technical presentation. During SMU engineering laboratory instruction in 2024–2025, I also guided undergraduate groups in thermofluids and nano-biomanufacturing experiments and technical reporting.
+
+### Teaching interests
+
+My teaching interests include mechanical design, manufacturing processes and systems, CAD, introductory engineering design, senior design and capstone projects, engineering materials, and nanomanufacturing. I am also interested in thermodynamics, fluid mechanics, heat transfer, engineering experimentation and data analysis, as well as graduate topics in advanced manufacturing, nanoscale fabrication, semiconductor processing fundamentals, materials characterization, multiphysics modeling, and machine learning for engineering.
+
+## Industry experience
+
+### SA Classic Properties Sdn. Bhd. · Kuala Lumpur, Malaysia
+
+**Advising Officer · March–December 2022**
+
+Supported technical and operational management and coordinated technical and management functions.
+
+### Bangladesh-India Friendship Power Company Ltd. · Bangladesh
+
+**Industrial Trainee · Maitree Super Thermal Power Plant · June–September 2021**
+
+Supported mechanical engineering and project-management activities during construction of a **2 × 660 MW** thermal power plant. I assisted with supervision and coordination of mechanical equipment erection in collaboration with the mechanical engineering department, gaining practical experience in large-scale industrial project execution.
+
+## University leadership and academic service
+
+| Period | Role |
+|:--|:--|
+| 2025–2026 | Lyle Senator, SMU Student Senate — represented engineering students in university governance |
+| 2025 | Category Judge, Dallas Regional Science and Engineering Fair — biomedical science, engineering technology, and materials science |
+| 2025 | Instructor and Research Mentor, GSTCA — student nanopore research and data analysis |
+| 2019–2022 | University Liaison Officer, Institution of Mechanical Engineers |
+| 2019–2021 | Ambassador, International Global Network |
+| 2019–2020 | Liaison Officer, Asia World Model United Nations II |
+| 2019 | Treasurer, Institution of Engineers Malaysia, SEGi Student Chapter |
+| 2018 | Director of Logistics, Hult Prize, SEGi University |
+
+## Community service
+
+**American Red Cross · Transport Specialist · North Texas Region · 2023–2024**\
+Transported blood and blood products among Red Cross laboratories, hospitals, and collection sites.
+
+**FIFA World Cup 2026 · Access Management Volunteer · Dallas, Texas · 2026**\
+Supported International Broadcast Center access operations, including accreditation checks and resolution of access-related issues.
+
+[Education and awards](cv.qmd) · [Research presentations](talks-news.qmd)

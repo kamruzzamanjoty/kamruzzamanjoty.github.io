@@ -13,16 +13,40 @@ My presentation introduces DNA origami hybrid nanopores to a general audience. I
 
 [Watch on YouTube](https://youtu.be/N_FznhdySp4){.btn .btn-primary} [SMU competition and award record](https://www.smu.edu/moody/events/three-minute-thesis){.btn .btn-outline-primary}
 
+## Research presentations
+
+### Direction-aware protein translocation analysis
+
+**“Direction-Aware Signal Analysis for Protein Translocation in Multilayer Solid-State Nanopores.”**\
+Oral presentation, 19th IEEE Dallas Circuits and Systems Conference (DCAS), Dallas, Texas · April 2026. [Conference paper](https://doi.org/10.1109/DCAS69364.2026.11544297).
+
+### Machine-learning-enabled nanopore biosensing
+
+**“Toward Smart Nanopores: Machine Learning Enabled Biosensing with Multilayer Solid-State Nanopores for Molecular Diagnostics.”**
+
+- SMU Industry Innovation Summit · 2026
+- SMU Research & Innovation Week Poster Competition · 2026
+- University of North Texas AI4BM Symposium · 2025
+
+### DNA origami hybrid nanopores
+
+**“DNA Origami Incorporated into Solid-State Nanopores Enables Enhanced Sensitivity for Precise Analysis of Protein Translocations.”**
+
+- North Texas Biomedical Engineering Symposium · 2024
+- SMU Research & Innovation Week · 2024
+
+[Related publication](https://doi.org/10.1021/acs.analchem.4c02016) · [All honors and awards](cv.qmd#honors-and-awards)
+
 ## Research in the news
 
 ### SMU Lyle School of Engineering
 
-[SMU Lyle Mechanical Engineering Graduate Student Makes Breakthrough in Biosensing Technology](https://www.smu.edu/lyle/latest-at-lyle/2023-24/smu-lyle-mechanical-engineering-graduate-student-makes-breakthrough-in-biosensing-technology)  
+[SMU Lyle Mechanical Engineering Graduate Student Makes Breakthrough in Biosensing Technology](https://www.smu.edu/lyle/latest-at-lyle/2023-24/smu-lyle-mechanical-engineering-graduate-student-makes-breakthrough-in-biosensing-technology)\
 October 29, 2024
 
 ### Phys.org
 
-[Mechanical engineer figures out way to enhance sensitivity of nanopores for early detection of diseases](https://phys.org/news/2024-12-mechanical-figures-sensitivity-nanopores-early.html)  
+[Mechanical engineer figures out way to enhance sensitivity of nanopores for early detection of diseases](https://phys.org/news/2024-12-mechanical-figures-sensitivity-nanopores-early.html)\
 December 5, 2024 · Provided by Southern Methodist University
 
 ### Newswise

@@ -3,26 +3,49 @@ title: "Engineering Portfolio"
 subtitle: "Fabrication, instrumentation, modeling, and data"
 ---
 
-My engineering work connects nanoscale device fabrication with electrical measurement and computational interpretation.
+My engineering work connects nanoscale manufacturing and materials integration with electrical measurement, multiphysics transport, and computational analysis.
 
 ## Nanofabrication and device integration
 
-Research experience includes solid-state nanopore fabrication and characterization, heterogeneous membrane preparation, and integration of devices into experimental measurement systems.
+My research includes solid-state and hybrid nanopore fabrication, heterogeneous membrane preparation, electrical characterization, and integration into measurement systems. I applied and adapted the laboratory’s existing chemically tuned controlled dielectric breakdown (CT-CDB) method to multilayer structures combining silicon nitride with graphene, MoS₂, and hBN.
 
 [Multilayer nanopore research](projects/heterostructures.qmd)
 
 ## Instrumentation and automation
 
-Controlled dielectric breakdown and electrical characterization link fabrication with data acquisition. Experimental automation supports repeatable procedures and organized measurement workflows.
+I contributed to P.O.R.E. (Programmable Ohmic Research Engine), supporting electrical control, experimental instrumentation, fabrication workflows, platform characterization, and experimental validation.
 
-[Instrumentation project](projects/instrumentation.qmd)
+My laboratory experience includes the Park Systems NX-12 AFM, JEOL SEM, Axopatch electrical measurement systems, and Sutter Instrument P-2000 laser micropipette puller, alongside equipment calibration, troubleshooting, and data acquisition.
+
+[Programmable fabrication project](projects/instrumentation.qmd)
 
 ## Modeling and analysis
 
-COMSOL finite-element simulations examine electric-field distributions. Signal processing, event-feature extraction, and supervised learning support comparisons across devices and experimental conditions.
+COMSOL finite-element simulations examine electric-field distributions and nanoscale transport. Signal processing, statistical analysis, event-feature extraction, and machine learning support comparisons across devices and experimental conditions.
 
 [Computational methods](projects/modeling-ml.qmd)
 
-## Semiconductor coursework
+### Tools
 
-Graduate laboratory coursework provided exposure to compound semiconductor fabrication and device characterization. This preparation is distinct from my hands-on research in nanopore fabrication.
+| Area | Tools and methods |
+|:--|:--|
+| Computation and simulation | Python, MATLAB, COMSOL Multiphysics, ANSYS Fluent |
+| Measurement and analysis | LabVIEW, OriginPro, experimental signal processing, statistical and quantitative analysis |
+| Design and visualization | Autodesk Inventor, AutoCAD, Blender, Adobe Photoshop, Microsoft Office |
+| Materials characterization | SEM, AFM, electrical characterization; silicon nitride, graphene, MoS₂, and hBN interfaces |
+
+## Undergraduate engineering research
+
+### Aerodynamic performance of C-wing configurations
+
+My undergraduate thesis used **ANSYS Fluent** to study Onera M6 wing configurations with forward and backward C-wing sweep. I compared these with a conventional wing, investigating drag and flow behavior under subsonic and supersonic conditions.
+
+### Additive manufacturing in orthopedic surgery
+
+I conducted a literature review of three-dimensional printing for surgical planning, patient-specific implants, and customized anatomical models. The review was published in [AIP Conference Proceedings (2023)](https://doi.org/10.1063/5.0165255).
+
+## Semiconductor coursework and laboratory exposure
+
+Graduate coursework and laboratory exposure covered semiconductor fabrication fundamentals, cleanroom processing, photolithography, photoresist processing, mask alignment, thermal oxidation, diffusion, etching, metallization, and MOSFET fabrication and testing. This preparation complements my hands-on research in nanopore fabrication.
+
+[Industry experience](experience.qmd#industry-experience) · [Education](cv.qmd#education)
