@@ -7,19 +7,19 @@ subtitle: "Journal articles, manuscripts, conference contributions, and patent a
 
 *Listed in reverse chronological order by year. An asterisk (\*) denotes equal contribution.*
 
-1. Gu, C.; Lee, S.; **Joty, K.**; Thyashan, N.; Kim, M. J. “P.O.R.E.: A Programmable Ohmic Research Engine for Low-Cost Solid-State Nanopore Fabrication.” *IEEE Access* **2026**, 14, 134081–134096.
+1. Gu, C.; Lee, S.; **Joty, K.**; Thyashan, N.; Kim, M. J. “[P.O.R.E.: A Programmable Ohmic Research Engine for Low-Cost Solid-State Nanopore Fabrication](https://doi.org/10.1109/ACCESS.2026.3727354).” *IEEE Access* **2026**, 14, 134081–134096.
 
-2. Gu, C.; Lee, J. W.; **Joty, K.**; Leon, M.; Khatri, S.; Manawasinghe, J.; Hong, S.; Kim, M. J. “Solid-State Nanopore Characterization of Dendrimer-Peptide Conjugates Across Defined Peptide Loadings.” *Advanced Materials Interfaces* **2026**, 13(14), e70569.
+2. Gu, C.; Lee, J. W.; **Joty, K.**; Leon, M.; Khatri, S.; Manawasinghe, J.; Hong, S.; Kim, M. J. “[Solid-State Nanopore Characterization of Dendrimer-Peptide Conjugates Across Defined Peptide Loadings](https://doi.org/10.1002/admi.70569).” *Advanced Materials Interfaces* **2026**, 13(14), e70569.
 
-3. Gu, C.; Zhu, X.; Khatri, S.; Thyashan, N.; **Joty, K.**; Kim, M. J. “Geometric Confinement in Solid-State Nanopores Enables Single-Molecule Discrimination of Ferritin Subunits and Translocation Bias.” *Nano Letters* **2026**, 26(14), 4881–4888.
+3. Gu, C.; Zhu, X.; Khatri, S.; Thyashan, N.; **Joty, K.**; Kim, M. J. “[Geometric Confinement in Solid-State Nanopores Enables Single-Molecule Discrimination of Ferritin Subunits and Translocation Bias](https://doi.org/10.1021/acs.nanolett.6c00914).” *Nano Letters* **2026**, 26(14), 4881–4888.
 
-4. **Joty, K.**; Gu, C.; Lee, S.; Kim, M. J. “Directional Single-Protein Transport Enabled by 2D Material Heterointerfaces in Solid-State Nanopores: Implications for Single-Molecule Sensing.” *ACS Applied Nano Materials* **2026**, 9(13), 5988–5999.
+4. **Joty, K.**; Gu, C.; Lee, S.; Kim, M. J. “[Directional Single-Protein Transport Enabled by 2D Material Heterointerfaces in Solid-State Nanopores: Implications for Single-Molecule Sensing](https://doi.org/10.1021/acsanm.6c01041).” *ACS Applied Nano Materials* **2026**, 9(13), 5988–5999.
 
-5. **Joty, K.\***; Gu, C.\*; Thyashan, N.; Vlassiouk, I.; Collins, L.; Zhang, X.; Nelson, C.; Taton, N.; Lee, S.; Kim, M. J. “Heterogenous Multilayer Nanopores via Chemically Tuned Dielectric Breakdown for Single-Molecule Sensing.” *Small* **2026**, 22(36), e13242.
+5. **Joty, K.\***; Gu, C.\*; Thyashan, N.; Vlassiouk, I.; Collins, L.; Zhang, X.; Nelson, C.; Taton, N.; Lee, S.; Kim, M. J. “[Heterogenous Multilayer Nanopores via Chemically Tuned Dielectric Breakdown for Single-Molecule Sensing](https://doi.org/10.1002/smll.202513242).” *Small* **2026**, 22(36), e13242.
 
-6. **Joty, K.**; Hong, S.; Ghimire, M. L.; Kim, S.; Walker, J. N.; Brodbelt, J. S.; Yeh, H.-C.; Kim, M. J. “Solid-State Nanopore Analysis of DNA-Hosted Silver Nanoclusters: Voltage-Dependent Translocation and Electrolyte Stability.” *ACS Applied Materials & Interfaces* **2025**, 17(27), 39407–39419.
+6. **Joty, K.**; Hong, S.; Ghimire, M. L.; Kim, S.; Walker, J. N.; Brodbelt, J. S.; Yeh, H.-C.; Kim, M. J. “[Solid-State Nanopore Analysis of DNA-Hosted Silver Nanoclusters: Voltage-Dependent Translocation and Electrolyte Stability](https://doi.org/10.1021/acsami.5c02405).” *ACS Applied Materials & Interfaces* **2025**, 17(27), 39407–39419.
 
-7. Gu, C.; **Joty, K.**; O’Donohue, M.; Thyashan, N.; Hu, L.; et al. “Detection of Ultra-Short KYCDE Peptides Using SiₓNᵧ Nanopores.” *Electrophoresis* **2025**.
+7. Gu, C.; **Joty, K.**; O’Donohue, M.; Thyashan, N.; Hu, L.; et al. “[Detection of Ultra-Short KYCDE Peptides Using SiₓNᵧ Nanopores](https://doi.org/10.1002/elps.8122).” *Electrophoresis* **2025**.
 
 8. **Joty, K.**; Ghimire, M. L.; Kahn, J. S.; Lee, S.; Alexandrakis, G.; Kim, M. J. “[DNA Origami Incorporated into Solid-State Nanopores Enables Enhanced Sensitivity for Precise Analysis of Protein Translocations](https://doi.org/10.1021/acs.analchem.4c02016).” *Analytical Chemistry* **2024**, 96(44), 17496–17505.
 
@@ -31,11 +31,11 @@ subtitle: "Journal articles, manuscripts, conference contributions, and patent a
 
 ## Peer-reviewed conference proceedings
 
-1. **Joty, K.**; Gu, C.; Lee, S.; Kim, M. J. “Direction-Aware Signal Analysis for Protein Translocation in Multilayer Solid-State Nanopores.” *2026 IEEE 19th Dallas Circuits and Systems Conference (DCAS)*, Dallas, TX, 2026, pp. 1–5.
+1. **Joty, K.**; Gu, C.; Lee, S.; Kim, M. J. “[Direction-Aware Signal Analysis for Protein Translocation in Multilayer Solid-State Nanopores](https://doi.org/10.1109/DCAS69364.2026.11544297).” *2026 IEEE 19th Dallas Circuits and Systems Conference (DCAS)*, Dallas, TX, 2026, pp. 1–5.
 
 2. **Joty, K.**; Khatri, S.; Gu, C.; Lee, S.; Kim, M. J. “Influence of Heterogeneous 2D Material Interfaces on Protein Translocation in Solid-State Nanopores.” *IEEE Biosensors 2026*. **Accepted.**
 
-3. **Joty, K.**; Janasekaran, S.; Tai, V. C.; Urasim, M. “Review of 3D Printing Applications in Orthopedic Surgery.” *AIP Conference Proceedings* **2023**, 2847(1), 040011.
+3. **Joty, K.**; Janasekaran, S.; Tai, V. C.; Urasim, M. “[Review of 3D Printing Applications in Orthopedic Surgery](https://doi.org/10.1063/5.0165255).” *AIP Conference Proceedings* **2023**, 2847(1), 040011.
 
 ## Patent application
 
