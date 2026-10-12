@@ -1,5 +1,6 @@
 ---
 title: "DNA Origami Hybrid Nanopores"
+description: "Kamruzzaman Joty’s published research on DNA origami integrated with solid-state nanopores for enhanced protein translocation measurements."
 subtitle: "Published research"
 ---
 

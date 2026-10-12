@@ -1,5 +1,6 @@
 ---
 title: "DNA-Hosted Silver Nanoclusters"
+description: "Kamruzzaman Joty’s research on voltage-dependent translocation and electrolyte stability of DNA-hosted silver nanoclusters using solid-state nanopores."
 subtitle: "Voltage-dependent transport and electrolyte stability"
 ---
 

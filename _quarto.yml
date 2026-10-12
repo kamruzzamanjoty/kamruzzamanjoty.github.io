@@ -13,6 +13,10 @@ website:
   site-url: "https://kamruzzamanjoty.github.io"
   description: "Research and engineering portfolio of Kamruzzaman Joty"
   favicon: assets/favicon.svg
+  open-graph: true
+  twitter-card: true
+  image: assets/kamruzzaman-joty.jpg
+  image-alt: "Portrait of Kamruzzaman Joty"
   navbar:
     background: "#0d2038"
     foreground: "#ffffff"
@@ -34,7 +38,7 @@ website:
       - href: writing.qmd
         text: Writing
       - href: cv.qmd
-        text: Resume
+        text: Profile
       - href: contact.qmd
         text: Contact
   page-footer:
@@ -46,6 +50,7 @@ website:
 
 format:
   html:
+    canonical-url: true
     theme: [cosmo, styles/custom.scss]
     css: styles/custom.css
     include-after-body: includes/visitor-stats.html

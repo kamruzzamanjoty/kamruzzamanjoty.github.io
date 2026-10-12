@@ -1,5 +1,6 @@
 ---
 title: "Talks & News"
+description: "Kamruzzaman Joty’s Three Minute Thesis video, research presentations, media coverage, and institutional research highlights."
 subtitle: "Research communication, media coverage, and campus activities"
 ---
 

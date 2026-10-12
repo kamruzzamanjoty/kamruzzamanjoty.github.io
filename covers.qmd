@@ -1,5 +1,6 @@
 ---
 title: "Journal Covers"
+description: "Journal cover gallery featuring Kamruzzaman Joty’s DNA origami nanopore and DNA-hosted silver nanocluster research in Analytical Chemistry and ACS Applied Materials & Interfaces."
 subtitle: "Cover artwork featuring my nanopore research"
 toc: false
 ---

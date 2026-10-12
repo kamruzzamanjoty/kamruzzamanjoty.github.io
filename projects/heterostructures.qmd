@@ -1,5 +1,6 @@
 ---
 title: "Multilayer Heterostructure Nanopores"
+description: "Kamruzzaman Joty’s heterogeneous multilayer nanopore research combining silicon nitride with graphene, MoS2, and hBN to study directional molecular transport."
 subtitle: "Material interfaces and molecular transport"
 ---
 

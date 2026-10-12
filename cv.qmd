@@ -1,5 +1,6 @@
 ---
-title: "Resume & Professional Profile"
+title: "Professional Profile"
+description: "Education, research appointment, honors, awards, professional affiliations, and downloadable resume of Kamruzzaman Joty, Mechanical Engineering Ph.D. candidate at SMU."
 subtitle: "Education, research, and recognition"
 ---
 
@@ -25,7 +26,7 @@ Advisor: Engr. Vincent Tai
 Department of Mechanical Engineering, Southern Methodist University\
 [BAST Laboratory](https://bastlabs.org/) · Advisor: Professor MinJun Kim
 
-My work combines nanoscale fabrication, heterogeneous materials integration, experimental process development, electrical and materials characterization, and single-molecule transport. I contribute to experimental analysis, manuscripts, intellectual property, and research proposals, and support undergraduate and graduate laboratory activities.
+My work combines nanoscale fabrication, heterogeneous materials integration, experimental process development, electrical and materials characterization, and single-molecule transport. I contribute to experimental analysis, manuscripts, and intellectual property, and support undergraduate and graduate laboratory activities.
 
 ## Research interests
 

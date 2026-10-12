@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+description: "Contact Kamruzzaman Joty at Southern Methodist University and find his Google Scholar, ORCID, LinkedIn, ResearchGate, and BAST Laboratory profiles."
 subtitle: "Research, engineering, and collaboration"
 ---
 

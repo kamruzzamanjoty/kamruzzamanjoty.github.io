@@ -1,5 +1,6 @@
 ---
 title: "P.O.R.E.: Programmable Nanopore Fabrication"
+description: "Kamruzzaman Joty’s contributions to P.O.R.E., a programmable platform for low-cost solid-state nanopore fabrication and experimental validation."
 subtitle: "Instrumentation and experimental automation"
 ---
 

@@ -1,5 +1,8 @@
 ---
 title: ""
+description: "Kamruzzaman Joty is a Mechanical Engineering Ph.D. candidate and BAST Lab research assistant at SMU, studying nanopores, nanomanufacturing, and single-molecule sensing."
+pagetitle: "Kamruzzaman Joty | Nanopore Research & Nanomanufacturing"
+include-in-header: includes/person.html
 page-layout: full
 toc: false
 ---

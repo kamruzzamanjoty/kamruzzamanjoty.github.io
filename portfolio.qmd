@@ -1,5 +1,6 @@
 ---
 title: "Engineering Portfolio"
+description: "Kamruzzaman Joty’s engineering experience in nanopore fabrication, instrumentation, COMSOL modeling, machine learning, CFD, and semiconductor coursework."
 subtitle: "Fabrication, instrumentation, modeling, and data"
 ---
 

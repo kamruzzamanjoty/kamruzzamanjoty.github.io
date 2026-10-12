@@ -1,12 +1,13 @@
 ---
 title: "Experience, Teaching & Service"
+description: "Kamruzzaman Joty’s research and industry experience, mechanical engineering teaching, student mentoring, university leadership, and community service."
 ---
 
 ## Research experience
 
 **Research Assistant · BAST Laboratory, Southern Methodist University · January 2023–Present**
 
-I conduct research in nanoscale fabrication, materials integration, device characterization, and single-molecule transport. My responsibilities include electrical measurements, experimental data analysis, manuscript and proposal contributions, and support for undergraduate and graduate laboratory activities. [Explore my research](research.qmd).
+I conduct research in nanoscale fabrication, materials integration, device characterization, and single-molecule transport. My responsibilities include electrical measurements, experimental data analysis, manuscript contributions, and support for undergraduate and graduate laboratory activities. [Explore my research](research.qmd).
 
 ## Teaching and laboratory instruction
 

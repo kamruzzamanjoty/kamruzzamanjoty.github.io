@@ -1,5 +1,6 @@
 ---
 title: "Research"
+description: "Kamruzzaman Joty’s research on DNA origami hybrid nanopores, heterogeneous multilayer devices, DNA-hosted silver nanoclusters, instrumentation, and computational analysis."
 subtitle: "Nanoscale manufacturing, devices, and molecular transport"
 ---
 
@@ -34,17 +35,5 @@ Electric-field simulations and event-level signal analysis help relate device ar
 ## Research methods
 
 Solid-state and hybrid nanopore fabrication; CT-CDB; heterogeneous membrane integration; ionic-current acquisition; electrical, SEM, and AFM characterization; experimental signal analysis; COMSOL modeling; statistical analysis and machine learning.
-
-## Research proposal development
-
-### NSF-oriented concept: DNA origami and hybrid nanopore sensing
-
-I contributed to a research concept and technical proposal narrative addressing DNA-origami deformability, hybrid nanopore integration, and single-molecule characterization. Contributions included scientific background, proposed experimental approaches, anticipated outcomes, challenges, and alternative strategies.
-
-### DARPA PROSE-related concept and technical materials
-
-I contributed technical content and presentation materials concerning heterogeneous solid-state nanopores, integrated electrical sensing, and high-throughput molecular analysis, supporting collaborative research development.
-
-These activities describe **proposal-development contributions**; they do not represent awarded research funding.
 
 [Peer-reviewed publications](publications.qmd) · [Research presentations](talks-news.qmd)

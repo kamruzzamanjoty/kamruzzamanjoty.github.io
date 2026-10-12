@@ -1,5 +1,6 @@
 ---
 title: "Publications"
+description: "Journal articles, conference proceedings, manuscripts under review, and patent information for Kamruzzaman Joty, with links to published nanopore research."
 subtitle: "Journal articles, manuscripts, conference contributions, and patent applications"
 ---
 

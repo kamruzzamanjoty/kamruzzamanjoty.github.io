@@ -1,5 +1,6 @@
 ---
 title: "Writing"
+description: "An accessible introduction by Kamruzzaman Joty to nanopore measurements and DNA origami hybrid nanopore sensing."
 subtitle: "An introduction to the measurements behind my research"
 ---
 

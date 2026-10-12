@@ -1,5 +1,6 @@
 ---
 title: "COMSOL Modeling and Machine Learning"
+description: "COMSOL electric-field modeling, quantitative signal analysis, and machine-learning classification in Kamruzzaman Joty’s heterogeneous nanopore research."
 subtitle: "Computational methods for nanopore measurements"
 ---
 
