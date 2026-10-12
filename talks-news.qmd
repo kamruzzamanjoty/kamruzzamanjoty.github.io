@@ -1,0 +1,42 @@
+---
+title: "Talks & News"
+subtitle: "Research communication, media coverage, and campus activities"
+---
+
+## Three Minute Thesis
+
+### When DNA Becomes the Sensor: Building Smart Nanopores from Life’s Own Code
+
+My presentation introduces DNA origami hybrid nanopores to a general audience. It received a shared **People’s Choice Award** at SMU’s **Fall 2025 Three Minute Thesis competition**.
+
+<div class="video-frame"><iframe src="https://www.youtube-nocookie.com/embed/N_FznhdySp4" title="Kamruzzaman Joty — Three Minute Thesis presentation at SMU" width="960" height="540" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://youtu.be/N_FznhdySp4){.btn .btn-primary} [SMU competition and award record](https://www.smu.edu/moody/events/three-minute-thesis){.btn .btn-outline-primary}
+
+## Research in the news
+
+### SMU Lyle School of Engineering
+
+[SMU Lyle Mechanical Engineering Graduate Student Makes Breakthrough in Biosensing Technology](https://www.smu.edu/lyle/latest-at-lyle/2023-24/smu-lyle-mechanical-engineering-graduate-student-makes-breakthrough-in-biosensing-technology)  
+October 29, 2024
+
+### Phys.org
+
+[Mechanical engineer figures out way to enhance sensitivity of nanopores for early detection of diseases](https://phys.org/news/2024-12-mechanical-figures-sensitivity-nanopores-early.html)  
+December 5, 2024 · Provided by Southern Methodist University
+
+### Newswise
+
+[SMU Graduate Student Makes Breakthrough in Biosensing Technology](https://www.newswise.com/articles/smu-graduate-student-makes-breakthrough-in-biosensing-technology/)
+
+## Institutional highlights
+
+- [Research at SMU: biotechnology and nanopore research](https://www.linkedin.com/posts/research-at-smu_biotechnology-nanotechnology-activity-7270492921169092608-2xa5)
+- [SMU Lyle: Analytical Chemistry cover feature](https://www.linkedin.com/posts/smulyle_research-by-smu-lyle-mechanical-engineering-activity-7259643054008016896-Zh9p)
+- [Alpha Chi National College Honor Society: research recognition](https://www.linkedin.com/posts/alphachi_biotechnology-nanotechnology-activity-7274428441578323968-Ye6F)
+
+## Campus service
+
+[Hart Center for Engineering Leadership: Lyle student senators’ midyear update](https://www.linkedin.com/posts/hart-center-for-engineering-leadership_hartcenter-eqandiq-engineeringleadership-activity-7405294125408849920-VPvD)
+
+[Explore the research](research.qmd){.btn .btn-outline-primary}

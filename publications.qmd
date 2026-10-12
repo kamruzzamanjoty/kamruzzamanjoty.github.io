@@ -3,6 +3,8 @@ title: "Publications"
 subtitle: "Journal articles, manuscripts, conference contributions, and patent applications"
 ---
 
+[View journal covers](covers.qmd){.btn .btn-outline-primary}
+
 ## Peer-reviewed journal publications
 
 *Listed in reverse chronological order by year. An asterisk (\*) denotes equal contribution.*

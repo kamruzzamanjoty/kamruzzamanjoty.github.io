@@ -5,15 +5,18 @@ toc: false
 ---
 
 ::: {.hero}
+::: {.hero-copy}
 <div class="eyebrow">Researcher · Engineer · Ph.D. Candidate</div>
 
 # Kamruzzaman Joty
 
 **Nanoscale devices. Molecular measurements. Engineering methods.**
 
-I am a Mechanical Engineering Ph.D. candidate at Southern Methodist University. My work connects nanoscale device fabrication, experimental measurement, and data analysis to study molecular transport and develop single-molecule sensing platforms.
+I am a Mechanical Engineering Ph.D. candidate at Southern Methodist University. I conduct research in the [BAST Laboratory](https://bastlabs.org/). My work connects nanoscale device fabrication, experimental measurement, and data analysis to study molecular transport and develop single-molecule sensing platforms.
 
-<div class="hero-actions"><a href="research.html">Explore research →</a><a class="secondary" href="portfolio.html">Engineering portfolio →</a></div>
+<div class="hero-actions"><a href="research.html">Explore research →</a><a class="secondary" href="assets/Kamruzzaman-Joty-Resume.pdf">Download resume</a></div>
+:::
+<div class="hero-portrait"><img src="assets/kamruzzaman-joty.jpg" alt="Portrait of Kamruzzaman Joty" width="1365" height="1365"></div>
 :::
 
 ::: {.container-lg}
@@ -32,6 +35,8 @@ I am a Mechanical Engineering Ph.D. candidate at Southern Methodist University. 
 ## About my work
 
 My research spans membrane fabrication, heterogeneous interfaces, ionic-current measurements, and computational interpretation of single-molecule events. I am also interested in applying my experience in cleanroom processing, instrumentation, and data-driven characterization to semiconductor and nanomanufacturing engineering.
+
+[Watch my Three Minute Thesis presentation](talks-news.html){.btn .btn-outline-primary}
 
 [Read my research overview](research.html) · [See publications](publications.html) · [Contact me](contact.html)
 

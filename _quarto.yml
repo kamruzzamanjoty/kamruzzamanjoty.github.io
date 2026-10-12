@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - assets/**
+    - scripts/visitor-stats.js
   render:
     - "*.qmd"
     - "projects/*.qmd"
@@ -20,6 +23,10 @@ website:
         text: Research
       - href: publications.qmd
         text: Publications
+      - href: covers.qmd
+        text: Covers
+      - href: talks-news.qmd
+        text: Talks & News
       - href: portfolio.qmd
         text: Engineering
       - href: experience.qmd
@@ -27,12 +34,13 @@ website:
       - href: writing.qmd
         text: Writing
       - href: cv.qmd
-        text: Profile
+        text: Resume
       - href: contact.qmd
         text: Contact
   page-footer:
     left: "© Kamruzzaman Joty"
-    right: "Built with Quarto · Hosted on GitHub Pages"
+    right: |
+      [BAST Lab](https://bastlabs.org/) · Built with Quarto
   search: true
   back-to-top-navigation: true
 
@@ -40,6 +48,7 @@ format:
   html:
     theme: [cosmo, styles/custom.scss]
     css: styles/custom.css
+    include-after-body: includes/visitor-stats.html
     toc: true
     smooth-scroll: true
     title-block-banner: false

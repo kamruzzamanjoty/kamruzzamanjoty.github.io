@@ -1,0 +1,18 @@
+---
+title: "Journal Covers"
+subtitle: "Cover artwork featuring my nanopore research"
+toc: false
+---
+
+<div class="cover-gallery">
+<figure class="cover-item">
+<a href="https://doi.org/10.1021/acsami.5c02405" aria-label="Read the DNA-hosted silver nanoclusters article"><img src="assets/cover-acsami-2025.jpg" alt="ACS Applied Materials &amp; Interfaces supplementary cover featuring DNA-hosted silver nanoclusters and a nanopore" width="1540" height="2048" loading="lazy"></a>
+<figcaption><span class="section-label">ACS APPLIED MATERIALS &amp; INTERFACES</span><h2>DNA-hosted silver nanoclusters</h2><p>Supplementary cover · July 9, 2025<br>Volume 17, Issue 27</p><a href="https://doi.org/10.1021/acsami.5c02405">Read the article →</a><p class="image-credit">Cover image: ACS Publications.</p></figcaption>
+</figure>
+<figure class="cover-item">
+<a href="https://doi.org/10.1021/acs.analchem.4c02016" aria-label="Read the DNA origami hybrid nanopore article"><img src="assets/cover-analchem-2024.jpg" alt="Analytical Chemistry supplementary cover featuring octahedral DNA origami at a solid-state nanopore" width="1540" height="2048" loading="lazy"></a>
+<figcaption><span class="section-label">ANALYTICAL CHEMISTRY</span><h2>DNA origami hybrid nanopores</h2><p>Supplementary cover · November 5, 2024<br>Volume 96, Issue 44</p><a href="https://doi.org/10.1021/acs.analchem.4c02016">Read the article →</a><p class="image-credit">Cover image: ACS Publications.</p></figcaption>
+</figure>
+</div>
+
+[All publications](publications.qmd){.btn .btn-outline-primary}

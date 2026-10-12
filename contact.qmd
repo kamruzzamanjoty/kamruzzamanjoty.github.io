@@ -5,14 +5,16 @@ subtitle: "Research, engineering, and collaboration"
 
 **Kamruzzaman Joty**  
 Ph.D. Candidate, Mechanical Engineering  
-Southern Methodist University  
+[BAST Laboratory](https://bastlabs.org/) · Southern Methodist University  
 Dallas, Texas, United States
 
 My interests include hybrid nanopore sensing, nanoscale device fabrication, experimental instrumentation, and computational analysis.
 
 ## Professional profiles
 
+- [Google Scholar](https://scholar.google.com/citations?user=lpgFTI8AAAAJ&hl=en)
+- [LinkedIn](https://www.linkedin.com/in/kamruzzamanjoty/)
 - [ORCID: 0009-0001-9494-5886](https://orcid.org/0009-0001-9494-5886)
-- [Existing research website](https://sites.google.com/view/kamruzzamanjoty/)
+- [ResearchGate](https://www.researchgate.net/profile/Kamruzzaman-Joty)
 
-A direct professional contact address will be added here when available.
+[Download my resume](assets/Kamruzzaman-Joty-Resume.pdf){.btn .btn-outline-primary}

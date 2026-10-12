@@ -1,14 +1,16 @@
 ---
-title: "Professional Profile"
+title: "Resume & Professional Profile"
 subtitle: "Research and engineering experience"
 ---
+
+[Download resume (PDF)](assets/Kamruzzaman-Joty-Resume.pdf){.btn .btn-primary}
 
 ## Current role
 
 **Ph.D. Candidate in Mechanical Engineering**  
 Southern Methodist University, Dallas, Texas
 
-**Research Assistant, BAST Laboratory**  
+**Research Assistant, [BAST Laboratory](https://bastlabs.org/)**  
 Research in nanopore fabrication, single-molecule measurement, computational modeling, and experimental analysis.
 
 ## Technical focus
@@ -23,4 +25,4 @@ Graduate coursework and laboratory exposure to compound semiconductor fabricatio
 
 [Engineering portfolio](portfolio.qmd){.btn .btn-primary} [Experience and service](experience.qmd){.btn .btn-outline-primary}
 
-Downloadable CV and resume files will be added after review for public release.
+
