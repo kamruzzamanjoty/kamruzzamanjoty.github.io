@@ -9,21 +9,15 @@
     script.async = true;
     script.src = 'https://gc.zgo.at/count.js';
     script.dataset.goatcounter = origin + '/count';
-    script.onload = async () => {
+    script.onload = () => {
       const dashboard = document.getElementById('visitor-dashboard');
       dashboard.href = origin;
       const wrapper = document.getElementById('visitor-statistics');
       wrapper.hidden = false;
       const footer = document.querySelector('.nav-footer');
-      if (footer) footer.before(wrapper);
-      try {
-        const response = await fetch(origin + '/counter/TOTAL.json');
-        if (!response.ok) throw new Error('Counter unavailable');
-        const totals = await response.json();
-        if (typeof totals.count !== 'string') throw new Error('Invalid counter');
-        document.getElementById('visitor-total').textContent = totals.count;
-      } catch (_) {
-        wrapper.hidden = true;
+      if (footer) footer.after(wrapper);
+      if (window.goatcounter && window.goatcounter.visit_count) {
+        window.goatcounter.visit_count({append:'#visitor-total',path:'TOTAL',type:'html',no_branding:true,attr:{title:'Total recorded site visits',width:'200',height:'60'}});
       }
     };
     document.head.appendChild(script);
