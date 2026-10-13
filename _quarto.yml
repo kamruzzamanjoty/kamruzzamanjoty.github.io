@@ -51,6 +51,7 @@ website:
 format:
   html:
     canonical-url: true
+    include-in-header: includes/google-verification.html
     theme: [cosmo, styles/custom.scss]
     css: styles/custom.css
     include-after-body: includes/visitor-stats.html
