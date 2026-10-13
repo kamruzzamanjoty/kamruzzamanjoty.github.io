@@ -65,3 +65,7 @@ a:focus-visible, button:focus-visible { outline: 3px solid #e1a23b; outline-offs
 .visitor-statistics[hidden] { display: none; }
 #visitor-total { display: inline-block; vertical-align: middle; }
 @media (max-width: 800px) { .hero { grid-template-columns: 1fr; padding: 2.5rem 1.25rem; } .hero-portrait { max-width: 220px; } .cover-gallery { grid-template-columns: 1fr; } }
+
+/* Keep the public counter above the footer and clear of floating controls. */
+.visitor-statistics { display: flex; flex-wrap: wrap; gap: .4rem .75rem; justify-content: center; align-items: center; margin: 2.5rem auto 0; padding: .8rem 1rem; }
+#visitor-total { font-weight: 750; font-size: 1.1rem; color: #0d2038; }
