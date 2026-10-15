@@ -53,7 +53,7 @@ format:
     canonical-url: true
     include-in-header: includes/google-verification.html
     theme: [cosmo, styles/custom.scss]
-    css: styles/custom.css
+    css: styles/site-v2.css
     include-after-body: includes/visitor-stats.html
     toc: true
     smooth-scroll: true
