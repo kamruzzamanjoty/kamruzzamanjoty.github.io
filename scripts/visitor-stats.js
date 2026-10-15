@@ -1,25 +1,31 @@
-(async function () {
-  try {
-    const config = await fetch('/assets/analytics.json').then(r => { if (!r.ok) throw new Error('Config unavailable'); return r.json(); });
-    const code = config.siteCode;
-    if (config.provider !== 'goatcounter' || typeof code !== 'string' || !/^[a-z0-9][a-z0-9-]*$/.test(code)) return;
-    if (location.hostname !== 'kamruzzamanjoty.github.io') return;
-    const origin = 'https://' + code + '.goatcounter.com';
-    const script = document.createElement('script');
-    script.async = true;
-    script.src = 'https://gc.zgo.at/count.js';
-    script.dataset.goatcounter = origin + '/count';
-    script.onload = () => {
-      const dashboard = document.getElementById('visitor-dashboard');
-      dashboard.href = origin;
-      const wrapper = document.getElementById('visitor-statistics');
-      wrapper.hidden = false;
-      const footer = document.querySelector('.nav-footer');
-      if (footer) footer.after(wrapper);
-      if (window.goatcounter && window.goatcounter.visit_count) {
-        window.goatcounter.visit_count({append:'#visitor-total',path:'TOTAL',type:'html',no_branding:true,attr:{title:'Total recorded site visits',width:'200',height:'60'}});
-      }
-    };
-    document.head.appendChild(script);
-  } catch (_) { /* Analytics failure must not affect the website. */ }
+(function () {
+  // Keep the country panel clear of Quarto's floating back-to-top control.
+  function placeCounter() {
+    const panel = document.getElementById('visitor-statistics');
+    const footer = document.querySelector('.nav-footer');
+    if (panel && footer) footer.before(panel);
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', placeCounter, {once: true});
+  } else {
+    placeCounter();
+  }
+
+  // Retain the existing analytics history; no credentials are needed in the site.
+  async function loadAnalytics() {
+    try {
+      const response = await fetch('/assets/analytics.json');
+      if (!response.ok) return;
+      const config = await response.json();
+      const code = config.siteCode;
+      if (config.provider !== 'goatcounter' || typeof code !== 'string' || !/^[a-z0-9][a-z0-9-]*$/.test(code)) return;
+      if (location.hostname !== 'kamruzzamanjoty.github.io') return;
+      const script = document.createElement('script');
+      script.async = true;
+      script.src = 'https://gc.zgo.at/count.js';
+      script.dataset.goatcounter = 'https://' + code + '.goatcounter.com/count';
+      document.head.appendChild(script);
+    } catch (_) { /* Analytics must never prevent a research page from loading. */ }
+  }
+  loadAnalytics();
 }());
