@@ -19,4 +19,4 @@ My interests include hybrid nanopore sensing, nanoscale device fabrication, expe
 - [ORCID: 0009-0001-9494-5886](https://orcid.org/0009-0001-9494-5886)
 - [ResearchGate](https://www.researchgate.net/profile/Kamruzzaman-Joty)
 
-[Download my resume](assets/Kamruzzaman-Joty-Resume.pdf){.btn .btn-outline-primary}
+[Academic CV (PDF)](assets/Kamruzzaman-Joty-Academic-CV.pdf){.btn .btn-primary} [Industry résumé (PDF)](assets/Kamruzzaman-Joty-Industry-Resume.pdf){.btn .btn-outline-primary}

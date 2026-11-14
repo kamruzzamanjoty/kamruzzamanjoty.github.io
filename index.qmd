@@ -17,7 +17,7 @@ toc: false
 
 I am a Mechanical Engineering Ph.D. candidate at Southern Methodist University. I conduct research in the [BAST Laboratory](https://bastlabs.org/). My work connects nanoscale manufacturing, heterogeneous materials integration, experimental measurement, and data analysis to study molecular transport and develop single-molecule sensing platforms.
 
-<div class="hero-actions"><a href="research.html">Explore research →</a><a class="secondary" href="assets/Kamruzzaman-Joty-Resume.pdf">Download resume</a></div>
+<div class="hero-actions"><a href="research.html">Explore research →</a><a class="secondary" href="assets/Kamruzzaman-Joty-Industry-Resume.pdf">Industry résumé</a><a class="secondary" href="assets/Kamruzzaman-Joty-Academic-CV.pdf">Academic CV</a></div>
 :::
 <div class="hero-portrait"><img src="assets/kamruzzaman-joty.jpg" alt="Portrait of Kamruzzaman Joty" width="1365" height="1365"></div>
 :::
