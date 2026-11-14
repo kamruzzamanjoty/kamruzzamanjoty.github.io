@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-description: "Journal articles, conference proceedings, manuscripts under review, and patent information for Kamruzzaman Joty, with links to published nanopore research."
+description: "Journal articles, conference proceedings, submitted manuscripts, work in preparation, and patent information for Kamruzzaman Joty, with links to published nanopore research."
 subtitle: "Journal articles, manuscripts, conference contributions, and patent applications"
 ---
 
@@ -26,12 +26,6 @@ subtitle: "Journal articles, manuscripts, conference contributions, and patent a
 
 8. **Joty, K.**; Ghimire, M. L.; Kahn, J. S.; Lee, S.; Alexandrakis, G.; Kim, M. J. “[DNA Origami Incorporated into Solid-State Nanopores Enables Enhanced Sensitivity for Precise Analysis of Protein Translocations](https://doi.org/10.1021/acs.analchem.4c02016).” *Analytical Chemistry* **2024**, 96(44), 17496–17505.
 
-## Manuscripts under review
-
-1. Gu, C.; Thyashan, N.; **Joty, K.**; Alexandrakis, G.; Edel, J. B.; Taniguchi, M.; Lee, S.; Kim, M. J. “Solid-State Nanopore Platforms as Multi-Physics Single-Entity Microscopes.” **Under review.**
-
-2. Khatri, S.; Ge, X.; Manawasinghe, J.; **Joty, K.**; Thyashan, N.; Qin, Z.; Kim, M. J. “Single-Particle Resistive-Pulse Sensing Reveals Progressive Mechanical Stiffening of Lipid Nanoparticles by DNA Encapsulation and Peptide Conjugation.” **Under review.**
-
 ## Peer-reviewed conference proceedings
 
 1. **Joty, K.**; Gu, C.; Lee, S.; Kim, M. J. “[Direction-Aware Signal Analysis for Protein Translocation in Multilayer Solid-State Nanopores](https://doi.org/10.1109/DCAS69364.2026.11544297).” *2026 IEEE 19th Dallas Circuits and Systems Conference (DCAS)*, Dallas, TX, 2026, pp. 1–5.
@@ -39,6 +33,18 @@ subtitle: "Journal articles, manuscripts, conference contributions, and patent a
 2. **Joty, K.**; Gu, C.; Khatri, S.; Lee, S.; Kim, M. J. “[Influence of Heterogeneous 2D Material Interfaces on Protein Translocation in Solid-State Nanopores](https://doi.org/10.1109/BIOSENSORS67864.2026.11750003).” *2026 IEEE BioSensors Conference (BioSensors)*, pp. 1–4.
 
 3. **Joty, K.**; Janasekaran, S.; Tai, V. C.; Urasim, M. “[Review of 3D Printing Applications in Orthopedic Surgery](https://doi.org/10.1063/5.0165255).” *AIP Conference Proceedings* **2023**, 2929, 040011.
+
+## Manuscripts submitted
+
+1. Gu, C.; Thyashan, N.; **Joty, K.**; Alexandrakis, G.; Edel, J. B.; Taniguchi, M.; Lee, S.; Kim, M. J. “Solid-State Nanopore Platforms as Multi-Physics Single-Entity Microscopes.” **Submitted.**
+
+2. Khatri, S.; Ge, X.; Manawasinghe, J.; **Joty, K.**; Thyashan, N.; Qin, Z.; Kim, M. J. “Single-Particle Resistive-Pulse Sensing Reveals Progressive Mechanical Stiffening of Lipid Nanoparticles by DNA Encapsulation and Peptide Conjugation.” **Submitted.**
+
+## Manuscripts in preparation
+
+1. Gu, C.; Lee, S.; **Joty, K.**; Thyashan, N.; Kim, M. J. “P.O.R.E.: An Open-Source, Low-Cost Platform for Chemically-Tuned Controlled Dielectric Breakdown Nanopore Fabrication.” **In preparation.**
+
+2. **Joty, K.**; Kim, M. J. “A.L.P.H.A.: An α-Hemolysin Integrated Quartz Nanopipette Hybrid Nanopore for Single Molecule Sensing.” **In preparation.**
 
 ## Patent application
 

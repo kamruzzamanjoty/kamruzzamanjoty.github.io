@@ -11,14 +11,13 @@ I conduct research in nanoscale fabrication, materials integration, device chara
 
 ## Teaching and laboratory instruction
 
-**Teaching Assistant / Laboratory Assistant · SMU Department of Mechanical Engineering · 2024–2025**
+**Graduate Teaching Assistant · SMU Department of Mechanical Engineering · 2024–2025**
 
 | Course | Role |
 |:--|:--|
 | ME 2342 — Fluid Mechanics | Laboratory instructor, Fall 2024 and Spring 2025 |
 | ME 2131 — Thermodynamics | Laboratory instructor, Fall 2024 and Spring 2025 |
 | ME 3132 — Heat Transfer | Laboratory instructor, Fall 2024 and Spring 2025 |
-| ME 701C — Nano-Biomanufacturing Laboratory | Laboratory Assistant |
 
 I taught six laboratory course offerings across fluid mechanics, thermodynamics, and heat transfer, with about 20 students per class. I supervised and mentored student groups through experimental planning, apparatus operation, data collection, quantitative analysis, and technical reporting. Responsibilities included explaining theoretical and experimental principles, evaluating laboratory reports, providing feedback, and supporting students through demonstrations and individual assistance.
 
@@ -26,7 +25,7 @@ I taught six laboratory course offerings across fluid mechanics, thermodynamics,
 
 **Instructor and Research Mentor · Governor’s Science and Technology Champions’ Academy (GSTCA) · SMU · 2025**
 
-I mentored high-school students in hands-on nanopore experiments, laboratory procedures, experimental data analysis, and technical presentation. During SMU engineering laboratory instruction in 2024–2025, I also guided undergraduate groups in thermofluids and nano-biomanufacturing experiments and technical reporting.
+I mentored high-school students in hands-on nanopore experiments, laboratory procedures, experimental data analysis, and technical presentation.
 
 ### Undergraduate research mentoring
 
@@ -56,7 +55,7 @@ Peer reviewer for *ACS Omega* (American Chemical Society), 2026.
 
 ## University leadership and academic service
 
-As a Lyle Senator in the 112th SMU Student Senate, I authored a resolution supporting a university-wide en-route master’s pathway for Ph.D. students. The Senate passed the resolution.
+As a Lyle Senator in the 112th SMU Student Senate, I authored a resolution supporting a university-wide en-route master’s pathway for Ph.D. students. The Senate passed the resolution. I received the Student Senate Senior Award in 2026.
 
 | Period | Role |
 |:--|:--|
@@ -79,4 +78,4 @@ Transported blood and blood products among Red Cross laboratories, hospitals, an
 **FIFA World Cup 2026 · Access Management Volunteer · Dallas, Texas · 2026**\
 Supported International Broadcast Center access operations, including accreditation checks and resolution of access-related issues.
 
-[Education and awards](cv.qmd) · [Research presentations](talks-news.qmd)
+[Education, awards, and professional associations](cv.qmd) · [Research presentations](talks-news.qmd)

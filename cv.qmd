@@ -26,7 +26,7 @@ Advisor: Engr. Vincent Tai
 Department of Mechanical Engineering, Southern Methodist University\
 [BAST Laboratory](https://bastlabs.org/) · Advisor: Professor Min Jun Kim
 
-My work combines nanoscale fabrication, heterogeneous materials integration, experimental process development, electrical and materials characterization, and single-molecule transport. I contribute to experimental analysis, manuscripts, and intellectual property, and support undergraduate and graduate laboratory activities.
+My work combines nanoscale fabrication, heterogeneous materials integration, experimental process development, electrical and materials characterization, and single-molecule transport. I contribute to experimental analysis and manuscripts and support undergraduate and graduate laboratory activities.
 
 ## Selected contributions
 
@@ -52,7 +52,7 @@ Advanced manufacturing and nanomanufacturing; nanoscale process development; sol
 | 2017–2020 | Merit Scholarship |
 | 2018 | IMechE Conference Grant |
 
-## Professional affiliations
+## Professional associations
 
 - Student Member, American Society of Mechanical Engineers (ASME), 2023–present.
 - Associate Member, Sigma Xi, The Scientific Research Honor Society, 2026–present.

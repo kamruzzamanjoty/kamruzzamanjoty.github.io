@@ -6,38 +6,45 @@ subtitle: "Nanoscale manufacturing, devices, and molecular transport"
 
 My research connects nanoscale process development and heterogeneous materials integration with single-molecule measurement. I study how fabrication, pore geometry, material interfaces, and molecular structure influence transport and ionic-current signals in solid-state and hybrid nanopores.
 
-## Research projects
+## Current research
 
-### DNA origami hybrid nanopores
+### α-Hemolysin hybrid nanopores (2026–present)
 
-Programmable DNA nanostructures modify the sensing environment of a solid-state nanopore. Our published work examined confinement, DNA–protein interactions, and enhanced sensitivity for holo-human serum transferrin. [Project details](projects/dna-origami.qmd).
+I lead ongoing work on integrating α-hemolysin with quartz nanopipettes for single-molecule sensing. My work focuses on electrical characterization and device stability.
+### Programmable nanopore fabrication (2026–present)
 
-### Multilayer heterostructure nanopores
-
-I applied the laboratory’s existing CT-CDB method to silicon nitride structures incorporating graphene, MoS₂, and hBN, studying material interfaces, electric fields, and directional protein transport. [Project details](projects/heterostructures.qmd).
-
-### DNA-hosted silver nanoclusters
-
-This published study examines voltage-dependent translocation and electrolyte-dependent stability of DNA-hosted silver nanoclusters, comparing DNA templates with and without clusters. [Project details](projects/silver-nanoclusters.qmd).
-
-### α-Hemolysin hybrid nanopores
-
-My ongoing work investigates α-hemolysin integration with glass nanopipettes through electrophoretic capture. The research examines device stability, electrical characteristics, experimental troubleshooting, and signal analysis.
-
-### Programmable nanopore fabrication
-
-I contributed to P.O.R.E., a low-cost programmable fabrication platform, including electrical control, instrumentation integration, platform characterization, and experimental validation. [Project details](projects/instrumentation.qmd).
-
+I co-developed P.O.R.E., a low-cost programmable system for fabricating solid-state nanopores. I led the mechanical and microfluidic design, built flow-cell cartridges, assembled the system, and validated its performance experimentally. [Project details](projects/instrumentation.qmd).
 ### Multiphysics modeling and machine learning
 
 Electric-field simulations and event-level signal analysis help relate device architecture to transport behavior and support classification of experimental signals. [Project details](projects/modeling-ml.qmd).
+## Completed and published research
 
+### Multilayer heterostructure nanopores (2025–2026)
+
+I co-led work on silicon nitride nanopores incorporating graphene, MoS₂, and hBN using the lab’s existing chemically tuned controlled dielectric breakdown method. I investigated how these interfaces affect protein transport and current blockades, and used Gaussian mixture models and ensemble classification to analyze translocation signals. [Project details](projects/heterostructures.qmd).
 ### Collaborative sensing studies
 
 I contributed nanopore measurements and data analysis to studies of [dendrimer–peptide conjugates](https://doi.org/10.1002/admi.70569), [ferritin subunits](https://doi.org/10.1021/acs.nanolett.6c00914), and [ultra-short peptides](https://doi.org/10.1002/elps.8122).
 
-## Research methods
+### DNA-templated silver nanoclusters (2024–2025)
 
-Solid-state and hybrid nanopore fabrication; CT-CDB; heterogeneous membrane integration; ionic-current acquisition; electrical, SEM, and AFM characterization; experimental signal analysis; COMSOL modeling; statistical analysis and machine learning.
+I co-led nanopore and fluorescence characterization of DNA-templated silver nanoclusters. Our published work found distinct electrical signatures for DNA templates with and without silver nanoclusters under electrolyte conditions that stabilize the clusters. [Project details](projects/silver-nanoclusters.qmd).
+### DNA origami hybrid nanopores (2023–2024)
+
+I led experiments incorporating three-dimensional DNA origami into silicon nitride nanopores. I studied trapping stability and ionic-current responses during protein transport. In our published study, the hybrid device improved sensitivity for detecting holo-human serum transferrin. [Project details](projects/dna-origami.qmd).
+## Earlier research
+
+At SEGi University, I used ANSYS Fluent to compare forward- and backward-swept C-wing configurations at supersonic speeds. This work received the IMechE Project Award. I also co-authored a [review of 3D printing in orthopedic surgery](https://doi.org/10.1063/5.0165255).
+
+## Research techniques and skills
+
+| Area | Techniques and tools |
+|:--|:--|
+| Nanofabrication | Solid-state nanopore and quartz nanopipette fabrication, controlled dielectric breakdown, 2D-material transfer, and heterogeneous membrane integration |
+| Characterization | Ionic-current and current–voltage measurements, SEM/EDX, AFM, Raman, UV–Vis, and fluorescence spectroscopy |
+| Instrumentation and prototyping | Axopatch/Digidata, Sutter P-2000, microfluidic flow-cell design, CAD, 3D printing, and Arduino-based instrumentation |
+| Signal processing and statistics | Single-molecule event detection, current blockade and dwell-time analysis, power spectral density, signal-to-noise ratios, ANOVA, and effect sizes |
+| Computation and machine learning | Python, MATLAB, and COMSOL Multiphysics; Gaussian mixture models, ensemble classification, and model interpretation with SHAP |
+| Semiconductor processing coursework | Photolithography, oxidation, doping, etching, and metallization |
 
 [Peer-reviewed publications](publications.qmd) · [Research presentations](talks-news.qmd)
