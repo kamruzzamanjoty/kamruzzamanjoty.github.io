@@ -15,18 +15,22 @@ I conduct research in nanoscale fabrication, materials integration, device chara
 
 | Course | Role |
 |:--|:--|
-| ME 2342 — Fluid Mechanics | Teaching Assistant |
-| ME 2131 — Thermodynamics | Teaching Assistant |
-| ME 3132 — Heat Transfer | Teaching Assistant |
+| ME 2342 — Fluid Mechanics | Laboratory instructor, Fall 2024 and Spring 2025 |
+| ME 2131 — Thermodynamics | Laboratory instructor, Fall 2024 and Spring 2025 |
+| ME 3132 — Heat Transfer | Laboratory instructor, Fall 2024 and Spring 2025 |
 | ME 701C — Nano-Biomanufacturing Laboratory | Laboratory Assistant |
 
-I supervised and mentored student groups through experimental planning, apparatus operation, data collection, quantitative analysis, and technical reporting. Responsibilities included explaining theoretical and experimental principles, evaluating laboratory reports, providing feedback, and supporting students through demonstrations and individual assistance.
+I taught six laboratory course offerings across fluid mechanics, thermodynamics, and heat transfer, with about 20 students per class. I supervised and mentored student groups through experimental planning, apparatus operation, data collection, quantitative analysis, and technical reporting. Responsibilities included explaining theoretical and experimental principles, evaluating laboratory reports, providing feedback, and supporting students through demonstrations and individual assistance.
 
 ## Student research mentoring
 
 **Instructor and Research Mentor · Governor’s Science and Technology Champions’ Academy (GSTCA) · SMU · 2025**
 
 I mentored high-school students in hands-on nanopore experiments, laboratory procedures, experimental data analysis, and technical presentation. During SMU engineering laboratory instruction in 2024–2025, I also guided undergraduate groups in thermofluids and nano-biomanufacturing experiments and technical reporting.
+
+### Undergraduate research mentoring
+
+I trained undergraduate researchers in nanopore fabrication, device characterization, data acquisition, event extraction, and analysis. Projects included transferrin translocation (2023), dendrimer characterization (2025), and ferritin and transferrin sensing (2026).
 
 ### Teaching interests
 
@@ -46,7 +50,13 @@ Supported technical and operational management and coordinated technical and man
 
 Supported mechanical engineering and project-management activities during construction of a **2 × 660 MW** thermal power plant. I assisted with supervision and coordination of mechanical equipment erection in collaboration with the mechanical engineering department, gaining practical experience in large-scale industrial project execution.
 
+## Professional service
+
+Peer reviewer for *ACS Omega* (American Chemical Society), 2026.
+
 ## University leadership and academic service
+
+As a Lyle Senator in the 112th SMU Student Senate, I authored a resolution supporting a university-wide en-route master’s pathway for Ph.D. students. The Senate passed the resolution.
 
 | Period | Role |
 |:--|:--|
@@ -56,10 +66,12 @@ Supported mechanical engineering and project-management activities during constr
 | 2019–2022 | University Liaison Officer, Institution of Mechanical Engineers |
 | 2019–2021 | Ambassador, International Global Network |
 | 2019–2020 | Liaison Officer, Asia World Model United Nations II |
-| 2019 | Treasurer, Institution of Engineers Malaysia, SEGi Student Chapter |
+| 2019–2020 | Treasurer, Institution of Engineers Malaysia, SEGi Student Chapter |
 | 2018 | Director of Logistics, Hult Prize, SEGi University |
 
 ## Community service
+
+**Organizing Volunteer · International Conference on Industry 4.0 · SEGi University, Malaysia · 2019**
 
 **American Red Cross · Transport Specialist · North Texas Region · 2023–2024**\
 Transported blood and blood products among Red Cross laboratories, hospitals, and collection sites.

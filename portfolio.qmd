@@ -14,7 +14,7 @@ My research includes solid-state and hybrid nanopore fabrication, heterogeneous 
 
 ## Instrumentation and automation
 
-I contributed to P.O.R.E. (Programmable Ohmic Research Engine), supporting electrical control, experimental instrumentation, fabrication workflows, platform characterization, and experimental validation.
+I contributed to P.O.R.E. (Programmable Ohmic Research Engine), leading mechanical and microfluidic design, cartridge fabrication, system assembly, and validation experiments.
 
 My laboratory experience includes the Park Systems NX-12 AFM, JEOL SEM, Axopatch electrical measurement systems, and Sutter Instrument P-2000 laser micropipette puller, alongside equipment calibration, troubleshooting, and data acquisition.
 
@@ -31,9 +31,9 @@ COMSOL finite-element simulations examine electric-field distributions and nanos
 | Area | Tools and methods |
 |:--|:--|
 | Computation and simulation | Python, MATLAB, COMSOL Multiphysics, ANSYS Fluent |
-| Measurement and analysis | LabVIEW, OriginPro, experimental signal processing, statistical and quantitative analysis |
+| Measurement and analysis | LabVIEW, OriginPro, EventPro; event detection, power spectral density, signal-to-noise analysis, confidence intervals, and effect sizes |
 | Design and visualization | Autodesk Inventor, AutoCAD, Blender, Adobe Photoshop, Microsoft Office |
-| Materials characterization | SEM, AFM, electrical characterization; silicon nitride, graphene, MoS₂, and hBN interfaces |
+| Materials characterization | SEM/EDX, AFM, Raman, UV–Vis, and fluorescence spectroscopy; ImageJ and Gwyddion |
 
 ## Undergraduate engineering research
 

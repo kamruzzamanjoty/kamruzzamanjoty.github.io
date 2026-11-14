@@ -23,8 +23,19 @@
       const script = document.createElement('script');
       script.async = true;
       script.src = 'https://gc.zgo.at/count.js';
-      script.dataset.goatcounter = 'https://' + code + '.goatcounter.com/count';
+      const origin = 'https://' + code + '.goatcounter.com';
+      script.dataset.goatcounter = origin + '/count';
       document.head.appendChild(script);
+
+      const total = document.getElementById('visitor-total');
+      const row = document.getElementById('visitor-total-row');
+      if (!total || !row) return;
+      const counter = await fetch(origin + '/counter/TOTAL.json', {credentials: 'omit'});
+      if (!counter.ok) return;
+      const { count } = await counter.json();
+      if (typeof count !== 'string' || !/^[0-9][0-9,.\s]*$/.test(count)) return;
+      total.textContent = count;
+      row.hidden = false;
     } catch (_) { /* Analytics must never prevent a research page from loading. */ }
   }
   loadAnalytics();

@@ -14,6 +14,8 @@ How do nanoscale confinement, device geometry, and DNA–protein interactions af
 
 I engineered hybrid nanopores incorporating DNA origami and conducted ionic-current measurements of holo-human serum transferrin. The work compared open solid-state and DNA-origami hybrid nanopores and quantitatively analyzed current blockade, translocation duration, and event characteristics.
 
+The work included collaboration with Dr. Jason Kahn at Brookhaven National Laboratory on DNA origami structures and TEM, and with Prof. George Alexandrakis at the University of Texas at Arlington.
+
 ## Research scope
 
 The published study reports enhanced sensitivity for protein translocation measurements. The complete methods, results, and limitations are available in the peer-reviewed paper.

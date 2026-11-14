@@ -32,6 +32,10 @@ I contributed to P.O.R.E., a low-cost programmable fabrication platform, includi
 
 Electric-field simulations and event-level signal analysis help relate device architecture to transport behavior and support classification of experimental signals. [Project details](projects/modeling-ml.qmd).
 
+### Collaborative sensing studies
+
+I contributed nanopore measurements and data analysis to studies of [dendrimer–peptide conjugates](https://doi.org/10.1002/admi.70569), [ferritin subunits](https://doi.org/10.1021/acs.nanolett.6c00914), and [ultra-short peptides](https://doi.org/10.1002/elps.8122).
+
 ## Research methods
 
 Solid-state and hybrid nanopore fabrication; CT-CDB; heterogeneous membrane integration; ionic-current acquisition; electrical, SEM, and AFM characterization; experimental signal analysis; COMSOL modeling; statistical analysis and machine learning.

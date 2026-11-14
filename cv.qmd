@@ -12,21 +12,25 @@ subtitle: "Education, research, and recognition"
 
 **Ph.D. in Mechanical Engineering · Expected May 2027**\
 Dissertation: *Hybrid Nanopores for Next-Generation Single-Molecule Sensing*\
-Advisor: Professor MinJun Kim
+Advisor: Professor Min Jun Kim
 
 ### SEGi University · Selangor, Malaysia
 
-**Bachelor of Engineering in Mechanical Engineering · February 2022**\
+**Bachelor of Engineering (Honours) in Mechanical Engineering · February 2022**\
 Undergraduate thesis: *Numerical Investigation of Onera M6 Forward and Backward Swept C-Wing Configuration at Supersonic Speed*\
 Advisor: Engr. Vincent Tai
 
 ## Research appointment
 
-**Research Assistant · January 2023–Present**\
+**Graduate Research Assistant · January 2023–Present**\
 Department of Mechanical Engineering, Southern Methodist University\
-[BAST Laboratory](https://bastlabs.org/) · Advisor: Professor MinJun Kim
+[BAST Laboratory](https://bastlabs.org/) · Advisor: Professor Min Jun Kim
 
 My work combines nanoscale fabrication, heterogeneous materials integration, experimental process development, electrical and materials characterization, and single-molecule transport. I contribute to experimental analysis, manuscripts, and intellectual property, and support undergraduate and graduate laboratory activities.
+
+## Selected contributions
+
+My published work includes eight journal articles, four as first or equal-contributing first author, and three peer-reviewed conference papers. [View publications](publications.qmd).
 
 ## Research interests
 
@@ -50,9 +54,9 @@ Advanced manufacturing and nanomanufacturing; nanoscale process development; sol
 
 ## Professional affiliations
 
-- Student Member, American Society of Mechanical Engineers (ASME).
-- Associate Member, Sigma Xi The Scietific Research Honor Society.
-- Graduate Student Member, Alpha Chi National College Honor Society.
-- Former Associate Member, Institution of Mechanical Engineers (IMechE), 2018–2023.
+- Student Member, American Society of Mechanical Engineers (ASME), 2023–present.
+- Associate Member, Sigma Xi, The Scientific Research Honor Society, 2026–present.
+- Graduate Student Member, Alpha Chi National College Honor Society, 2026–present.
+- Former Affiliate Member, Institution of Mechanical Engineers (IMechE), 2018–2023.
 
 [Engineering portfolio](portfolio.qmd){.btn .btn-primary} [Teaching, experience & service](experience.qmd){.btn .btn-outline-primary}

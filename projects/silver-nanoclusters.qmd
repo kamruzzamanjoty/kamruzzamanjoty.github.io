@@ -14,6 +14,8 @@ How do applied voltage, pore geometry, and electrolyte conditions affect the tra
 
 I investigated voltage-dependent translocation and electrolyte-dependent stability, comparing DNA templates with and without silver nanoclusters across pore geometries and applied voltages. Experimental signal analysis examined the effects of cluster formation and electrolyte conditions.
 
+I co-led the nanopore and fluorescence characterization. Under electrolyte conditions that stabilized the clusters, the nanopore measurements distinguished DNA templates from DNA–silver nanocluster constructs. Sample preparation included collaboration with Prof. Hsin-Chih (Tim) Yeh at the University of Texas at Austin.
+
 ## Publication and cover
 
 [Joty et al., ACS Applied Materials & Interfaces (2025)](https://doi.org/10.1021/acsami.5c02405) reports the complete methods, results, and limitations.

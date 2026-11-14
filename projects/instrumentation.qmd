@@ -12,7 +12,7 @@ How can electrical control and experimental instrumentation be integrated into r
 
 ## Contributions
 
-I contributed to the platform’s development by supporting integration of electrical control, experimental instrumentation, and device-fabrication workflows. I also participated in platform characterization and experimental validation, and contributed to the publication describing the system.
+I co-developed the platform and led mechanical and microfluidic design, including the fabrication of interchangeable flow-cell cartridges. I assembled the system, ran validation experiments, collected data, and contributed to the published performance evaluation.
 
 ## Publication
 
