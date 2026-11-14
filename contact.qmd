@@ -19,4 +19,4 @@ My interests include hybrid nanopore sensing, nanoscale device fabrication, expe
 - [ORCID: 0009-0001-9494-5886](https://orcid.org/0009-0001-9494-5886)
 - [ResearchGate](https://www.researchgate.net/profile/Kamruzzaman-Joty)
 
-[Academic CV (PDF)](assets/Kamruzzaman-Joty-Academic-CV.pdf){.btn .btn-primary} [Industry résumé (PDF)](assets/Kamruzzaman-Joty-Industry-Resume.pdf){.btn .btn-outline-primary}
+[Request academic CV](mailto:kjoty@smu.edu?subject=Academic%20CV%20request){.btn .btn-primary} [Industry résumé (PDF)](assets/Kamruzzaman-Joty-Industry-Resume.pdf){.btn .btn-outline-primary}

@@ -16,11 +16,11 @@ I build nanopores and measure the electrical signals that molecules produce as t
 :::: {.research-grid .research-grid-current}
 
 ::: {.research-card}
-### α-Hemolysin hybrid nanopores {#alpha-hemolysin}
+### Hybrid nanopore sensing {#hybrid-nanopore-sensing}
 
 [2026–present]{.research-period}
 
-I lead work on combining α-hemolysin, a biological pore, with a quartz nanopipette. I use electrical measurements to characterize the resulting hybrid device and study its stability for single-molecule sensing.
+I study hybrid nanopores for single-molecule sensing, with a focus on understanding how hybrid designs affect measurement stability.
 :::
 
 ::: {.research-card}

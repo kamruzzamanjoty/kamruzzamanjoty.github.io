@@ -17,7 +17,7 @@ toc: false
 
 I am a Mechanical Engineering Ph.D. candidate at Southern Methodist University. I conduct research in the [BAST Laboratory](https://bastlabs.org/). My work connects nanoscale manufacturing, heterogeneous materials integration, experimental measurement, and data analysis to study molecular transport and develop single-molecule sensing platforms.
 
-<div class="hero-actions"><a href="research.html">Explore research →</a><a class="secondary" href="assets/Kamruzzaman-Joty-Industry-Resume.pdf">Industry résumé</a><a class="secondary" href="assets/Kamruzzaman-Joty-Academic-CV.pdf">Academic CV</a></div>
+<div class="hero-actions"><a href="research.html">Explore research →</a><a class="secondary" href="assets/Kamruzzaman-Joty-Industry-Resume.pdf">Industry résumé</a><a class="secondary" href="mailto:kjoty@smu.edu?subject=Academic%20CV%20request">Request academic CV</a></div>
 :::
 <div class="hero-portrait"><img src="assets/kamruzzaman-joty.jpg" alt="Portrait of Kamruzzaman Joty" width="1365" height="1365"></div>
 :::
@@ -29,7 +29,7 @@ I am a Mechanical Engineering Ph.D. candidate at Southern Methodist University. 
 ## Selected research
 
 <div class="project-grid">
-<div class="project-card"><div class="tag">Current research</div><h3>α-Hemolysin hybrid nanopores</h3><p>Integrating biological pores with glass nanopipettes and studying device stability and electrical behavior.</p><a href="research.html#alpha-hemolysin">Explore research →</a></div>
+<div class="project-card"><div class="tag">Current research</div><h3>Hybrid nanopore sensing</h3><p>Ongoing research on hybrid nanopores for single-molecule sensing.</p><a href="research.html#hybrid-nanopore-sensing">Explore research →</a></div>
 <div class="project-card"><div class="tag">Current research</div><h3>Programmable nanopore fabrication</h3><p>Experimental automation and controlled dielectric breakdown for nanoscale device fabrication.</p><a href="projects/instrumentation.html">Explore project →</a></div>
 <div class="project-card"><div class="tag">Current research</div><h3>Modeling and machine learning</h3><p>Multiphysics simulations and event-level analysis for understanding and classifying nanopore measurements.</p><a href="projects/modeling-ml.html">Explore project →</a></div>
 <div class="project-card"><div class="tag">Published research</div><h3>Multilayer heterostructure nanopores</h3><p>Investigating how layered two-dimensional materials and pore geometry affect directional molecular transport.</p><a href="projects/heterostructures.html">Explore project →</a></div>

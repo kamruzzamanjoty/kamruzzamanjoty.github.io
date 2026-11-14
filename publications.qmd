@@ -46,8 +46,6 @@ subtitle: "Journal articles, manuscripts, conference contributions, and patent a
 
 1. Gu, C.; Lee, S.; **Joty, K.**; Thyashan, N.; Kim, M. J. “P.O.R.E.: An Open-Source, Low-Cost Platform for Chemically-Tuned Controlled Dielectric Breakdown Nanopore Fabrication.” **In preparation.**
 
-2. **Joty, K.**; Kim, M. J. “A.L.P.H.A.: An α-Hemolysin Integrated Quartz Nanopipette Hybrid Nanopore for Single Molecule Sensing.” **In preparation.**
-
 ## Patent application
 
 Kim, M. J.; **Joty, K.**; Gu, C. “Heterogeneous Multilayer Nanopores.” U.S. Provisional Patent Application No. **63/998,374**. Filed **September 28, 2026**. **Pending.**

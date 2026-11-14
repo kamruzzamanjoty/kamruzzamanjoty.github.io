@@ -1,10 +1,10 @@
 ---
 title: "Professional Profile"
-description: "Education, research appointment, honors, awards, professional affiliations, and downloadable academic CV and industry résumé of Kamruzzaman Joty, Mechanical Engineering Ph.D. candidate at SMU."
+description: "Education, research appointment, honors, awards, professional affiliations, and downloadable industry résumé of Kamruzzaman Joty, Mechanical Engineering Ph.D. candidate at SMU."
 subtitle: "Education, research, and recognition"
 ---
 
-[Academic CV (PDF)](assets/Kamruzzaman-Joty-Academic-CV.pdf){.btn .btn-primary} [Industry résumé (PDF)](assets/Kamruzzaman-Joty-Industry-Resume.pdf){.btn .btn-outline-primary}
+[Request academic CV](mailto:kjoty@smu.edu?subject=Academic%20CV%20request){.btn .btn-primary} [Industry résumé (PDF)](assets/Kamruzzaman-Joty-Industry-Resume.pdf){.btn .btn-outline-primary}
 
 ## Education
 
