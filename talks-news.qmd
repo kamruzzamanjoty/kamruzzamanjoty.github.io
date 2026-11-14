@@ -10,7 +10,7 @@ subtitle: "Research communication, media coverage, and campus activities"
 
 My presentation introduces DNA origami hybrid nanopores to a general audience. It received a shared **People’s Choice Award** at SMU’s **Fall 2025 Three Minute Thesis competition**.
 
-<div class="video-frame"><iframe src="https://www.youtube-nocookie.com/embed/N_FznhdySp4" title="Kamruzzaman Joty — Three Minute Thesis presentation at SMU" width="960" height="540" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="video-frame"><iframe src="https://www.youtube-nocookie.com/embed/N_FznhdySp4" title="Kamruzzaman Joty: Three Minute Thesis presentation at SMU" width="960" height="540" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 [Watch on YouTube](https://youtu.be/N_FznhdySp4){.btn .btn-primary} [SMU competition and award record](https://www.smu.edu/moody/events/three-minute-thesis){.btn .btn-outline-primary}
 

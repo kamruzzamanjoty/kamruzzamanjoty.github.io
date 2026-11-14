@@ -80,3 +80,46 @@ a:focus-visible, button:focus-visible { outline: 3px solid #e1a23b; outline-offs
 @media (max-width: 800px) { .hero { grid-template-columns: 1fr; padding: 2.5rem 1.25rem; } .hero-portrait { max-width: 220px; } .cover-gallery { grid-template-columns: 1fr; } }
 
 #visitor-total { color: #0d2038; font-size: 1.15rem; font-variant-numeric: tabular-nums; }
+
+/* Research overview */
+.research-intro {
+  max-width: 48rem;
+  margin-block: 1rem 2.5rem;
+  font-size: 1.1rem;
+}
+.research-intro .btn {
+  margin: 0.25rem 0.4rem 0.25rem 0;
+}
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.25rem 0 2.75rem;
+}
+.research-card {
+  padding: 1.15rem 1.3rem;
+  min-width: 0;
+  border: 1px solid var(--bs-border-color);
+  border-top: 3px solid var(--bs-primary);
+  border-radius: 0.65rem;
+  background: var(--bs-body-bg);
+}
+.research-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.35rem;
+  font-size: 1.24rem;
+}
+.research-period {
+  color: var(--bs-secondary-color);
+  font-size: 0.88rem;
+  font-weight: 600;
+}
+.research-card p:last-child {
+  margin-bottom: 0;
+}
+@media (min-width: 992px) {
+  .research-grid-current { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+@media (max-width: 640px) {
+  .research-grid { grid-template-columns: minmax(0, 1fr); }
+}

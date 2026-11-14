@@ -26,9 +26,9 @@ The work included collaboration with Oak Ridge National Laboratory on 2D materia
 
 ## Related publications
 
-- [Heterogeneous Multilayer Nanopores via Chemically Tuned Dielectric Breakdown for Single-Molecule Sensing — Small (2026)](https://doi.org/10.1002/smll.202513242)
-- [Directional Single-Protein Transport Enabled by 2D Material Heterointerfaces in Solid-State Nanopores — ACS Applied Nano Materials (2026)](https://doi.org/10.1021/acsanm.6c01041)
-- [Direction-Aware Signal Analysis for Protein Translocation in Multilayer Solid-State Nanopores — IEEE DCAS (2026)](https://doi.org/10.1109/DCAS69364.2026.11544297)
+- [Heterogeneous Multilayer Nanopores via Chemically Tuned Dielectric Breakdown for Single-Molecule Sensing: Small (2026)](https://doi.org/10.1002/smll.202513242)
+- [Directional Single-Protein Transport Enabled by 2D Material Heterointerfaces in Solid-State Nanopores: ACS Applied Nano Materials (2026)](https://doi.org/10.1021/acsanm.6c01041)
+- [Direction-Aware Signal Analysis for Protein Translocation in Multilayer Solid-State Nanopores: IEEE DCAS (2026)](https://doi.org/10.1109/DCAS69364.2026.11544297)
 
 - [Influence of Heterogeneous 2D Material Interfaces on Protein Translocation in Solid-State Nanopores (IEEE BioSensors, 2026)](https://doi.org/10.1109/BIOSENSORS67864.2026.11750003)
 

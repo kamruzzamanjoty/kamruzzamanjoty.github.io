@@ -9,15 +9,26 @@ description: "Kamruzzaman Joty’s research and industry experience, mechanical 
 
 I conduct research in nanoscale fabrication, materials integration, device characterization, and single-molecule transport. My responsibilities include electrical measurements, experimental data analysis, manuscript contributions, and support for undergraduate and graduate laboratory activities. [Explore my research](research.qmd).
 
+## Research techniques and skills
+
+| Area | Techniques and tools |
+|:--|:--|
+| Nanofabrication | Solid-state nanopore and quartz nanopipette fabrication, controlled dielectric breakdown, 2D-material transfer, and heterogeneous membrane integration |
+| Characterization | Ionic-current and current–voltage measurements, SEM/EDX, AFM, Raman, UV–Vis, and fluorescence spectroscopy |
+| Instrumentation and prototyping | Axopatch/Digidata, Sutter P-2000, microfluidic flow-cell design, CAD, 3D printing, and Arduino-based instrumentation |
+| Signal processing and statistics | Single-molecule event detection, current blockade and dwell-time analysis, power spectral density, signal-to-noise ratios, ANOVA, and effect sizes |
+| Computation and machine learning | Python, MATLAB, and COMSOL Multiphysics; Gaussian mixture models, ensemble classification, and model interpretation with SHAP |
+| Semiconductor processing coursework | Photolithography, oxidation, doping, etching, and metallization |
+
 ## Teaching and laboratory instruction
 
 **Graduate Teaching Assistant · SMU Department of Mechanical Engineering · 2024–2025**
 
 | Course | Role |
 |:--|:--|
-| ME 2342 — Fluid Mechanics | Laboratory instructor, Fall 2024 and Spring 2025 |
-| ME 2131 — Thermodynamics | Laboratory instructor, Fall 2024 and Spring 2025 |
-| ME 3132 — Heat Transfer | Laboratory instructor, Fall 2024 and Spring 2025 |
+| ME 2342: Fluid Mechanics | Laboratory instructor, Fall 2024 and Spring 2025 |
+| ME 2131: Thermodynamics | Laboratory instructor, Fall 2024 and Spring 2025 |
+| ME 3132: Heat Transfer | Laboratory instructor, Fall 2024 and Spring 2025 |
 
 I taught six laboratory course offerings across fluid mechanics, thermodynamics, and heat transfer, with about 20 students per class. I supervised and mentored student groups through experimental planning, apparatus operation, data collection, quantitative analysis, and technical reporting. Responsibilities included explaining theoretical and experimental principles, evaluating laboratory reports, providing feedback, and supporting students through demonstrations and individual assistance.
 
@@ -59,9 +70,9 @@ As a Lyle Senator in the 112th SMU Student Senate, I authored a resolution suppo
 
 | Period | Role |
 |:--|:--|
-| 2025–2026 | Lyle Senator, SMU Student Senate — represented engineering students in university governance |
-| 2025 | Category Judge, Dallas Regional Science and Engineering Fair — biomedical science, engineering technology, and materials science |
-| 2025 | Instructor and Research Mentor, GSTCA — student nanopore research and data analysis |
+| 2025–2026 | Lyle Senator, SMU Student Senate; represented engineering students in university governance |
+| 2025 | Category Judge, Dallas Regional Science and Engineering Fair (biomedical science, engineering technology, and materials science) |
+| 2025 | Instructor and Research Mentor, GSTCA (student nanopore research and data analysis) |
 | 2019–2022 | University Liaison Officer, Institution of Mechanical Engineers |
 | 2019–2021 | Ambassador, International Global Network |
 | 2019–2020 | Liaison Officer, Asia World Model United Nations II |

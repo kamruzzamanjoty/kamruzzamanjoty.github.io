@@ -8,7 +8,7 @@ subtitle: "Journal articles, manuscripts, conference contributions, and patent a
 
 ## Peer-reviewed journal publications
 
-*Listed in reverse chronological order by year. An asterisk (\*) denotes equal contribution.*
+*Listed newest first by first online publication date. An asterisk (\*) denotes equal contribution.*
 
 1. Gu, C.; Lee, S.; **Joty, K.**; Thyashan, N.; Kim, M. J. “[P.O.R.E.: A Programmable Ohmic Research Engine for Low-Cost Solid-State Nanopore Fabrication](https://doi.org/10.1109/ACCESS.2026.3727354).” *IEEE Access* **2026**, 14, 134081–134096.
 
@@ -28,9 +28,11 @@ subtitle: "Journal articles, manuscripts, conference contributions, and patent a
 
 ## Peer-reviewed conference proceedings
 
-1. **Joty, K.**; Gu, C.; Lee, S.; Kim, M. J. “[Direction-Aware Signal Analysis for Protein Translocation in Multilayer Solid-State Nanopores](https://doi.org/10.1109/DCAS69364.2026.11544297).” *2026 IEEE 19th Dallas Circuits and Systems Conference (DCAS)*, Dallas, TX, 2026, pp. 1–5.
+*Listed newest first.*
 
-2. **Joty, K.**; Gu, C.; Khatri, S.; Lee, S.; Kim, M. J. “[Influence of Heterogeneous 2D Material Interfaces on Protein Translocation in Solid-State Nanopores](https://doi.org/10.1109/BIOSENSORS67864.2026.11750003).” *2026 IEEE BioSensors Conference (BioSensors)*, pp. 1–4.
+1. **Joty, K.**; Gu, C.; Khatri, S.; Lee, S.; Kim, M. J. “[Influence of Heterogeneous 2D Material Interfaces on Protein Translocation in Solid-State Nanopores](https://doi.org/10.1109/BIOSENSORS67864.2026.11750003).” *2026 IEEE BioSensors Conference (BioSensors)*, pp. 1–4.
+
+2. **Joty, K.**; Gu, C.; Lee, S.; Kim, M. J. “[Direction-Aware Signal Analysis for Protein Translocation in Multilayer Solid-State Nanopores](https://doi.org/10.1109/DCAS69364.2026.11544297).” *2026 IEEE 19th Dallas Circuits and Systems Conference (DCAS)*, Dallas, TX, 2026, pp. 1–5.
 
 3. **Joty, K.**; Janasekaran, S.; Tai, V. C.; Urasim, M. “[Review of 3D Printing Applications in Orthopedic Surgery](https://doi.org/10.1063/5.0165255).” *AIP Conference Proceedings* **2023**, 2929, 040011.
 
