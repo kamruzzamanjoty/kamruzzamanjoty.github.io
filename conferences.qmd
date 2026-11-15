@@ -1,0 +1,36 @@
+---
+title: "Conferences & Seminars"
+subtitle: "Research presentations and posters"
+---
+
+## Research presentations
+
+### Direction-aware protein translocation analysis
+
+**“Direction-Aware Signal Analysis for Protein Translocation in Multilayer Solid-State Nanopores.”**\
+Oral presentation, 19th IEEE Dallas Circuits and Systems Conference (DCAS), Dallas, Texas · April 10–12, 2026. [Conference paper](https://doi.org/10.1109/DCAS69364.2026.11544297).
+
+### Protein transport at heterogeneous 2D interfaces
+
+**“Influence of Heterogeneous 2D Material Interfaces on Protein Translocation in Solid-State Nanopores.”**\
+IEEE BioSensors, August 2026. [Conference paper](https://doi.org/10.1109/BIOSENSORS67864.2026.11750003).
+
+### Machine-learning-enabled nanopore biosensing
+
+**“Toward Smart Nanopores: Machine Learning Enabled Biosensing with Multilayer Solid-State Nanopores for Molecular Diagnostics.”**
+
+- SIAM Texas–Louisiana Sectional Meeting · Dallas, Texas · October 31–November 2, 2026 (poster)
+- SMU Industry Innovation Summit · 2026
+- SMU Research & Innovation Week Poster Competition · March 23–27, 2026
+- University of North Texas AI4BM Symposium · Denton, Texas · October 30, 2025 (poster)
+
+### DNA origami hybrid nanopores
+
+**“DNA Origami Incorporated into Solid-State Nanopores Enables Enhanced Sensitivity for Precise Analysis of Protein Translocations.”**
+
+- North Texas Biomedical Engineering Symposium · November 14–15, 2024 (poster)
+- SMU Research & Innovation Week · April 1–5, 2024 (poster)
+
+[Related publication](https://doi.org/10.1021/acs.analchem.4c02016) · [All honors and awards](professional-profile.qmd#honors-and-awards)
+
+[Three Minute Thesis and research coverage](talks-news.qmd){.btn .btn-outline-primary}

@@ -20,6 +20,6 @@ I co-led the nanopore and fluorescence characterization. Under electrolyte condi
 
 [Joty et al., ACS Applied Materials & Interfaces (2025)](https://doi.org/10.1021/acsami.5c02405) reports the complete methods, results, and limitations.
 
-The publication was featured on a supplementary journal cover. [View the cover gallery](../covers.qmd).
+The publication was featured on a supplementary journal cover. [View the cover gallery](../journal-covers.qmd).
 
 [← All research projects](../research.qmd)

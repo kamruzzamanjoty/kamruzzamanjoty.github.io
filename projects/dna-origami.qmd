@@ -24,6 +24,6 @@ The published study reports enhanced sensitivity for protein translocation measu
 
 [Joty et al., Analytical Chemistry (2024)](https://doi.org/10.1021/acs.analchem.4c02016).
 
-The publication was featured on a supplementary journal cover. [View the cover gallery](../covers.qmd).
+The publication was featured on a supplementary journal cover. [View the cover gallery](../journal-covers.qmd).
 
 [← All research projects](../research.qmd)

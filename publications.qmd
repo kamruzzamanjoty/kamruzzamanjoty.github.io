@@ -1,10 +1,21 @@
 ---
 title: "Publications"
-description: "Journal articles, conference proceedings, submitted manuscripts, work in preparation, and patent information for Kamruzzaman Joty, with links to published nanopore research."
-subtitle: "Journal articles, manuscripts, conference contributions, and patent applications"
+description: "Journal articles, conference proceedings, submitted manuscripts for Kamruzzaman Joty, with links to published nanopore research."
+subtitle: "Journal articles, manuscripts, conference contributions"
 ---
 
-[View journal covers](covers.qmd){.btn .btn-outline-primary}
+::: {.publication-feature}
+[![Analytical Chemistry supplementary cover](assets/cover-analchem-2024.jpg){loading="lazy"}](journal-covers.qmd)
+[![ACS Applied Materials & Interfaces supplementary cover](assets/cover-acsami-2025.jpg){loading="lazy"}](journal-covers.qmd)
+
+::: {.publication-feature-copy}
+**Featured on journal covers**
+
+Two of my studies were featured on supplementary covers. The gallery links each cover to its article.
+
+[View journal covers](journal-covers.qmd){.btn .btn-outline-primary} [Google Scholar](https://scholar.google.com/citations?user=lpgFTI8AAAAJ&hl=en){.btn .btn-outline-primary}
+:::
+:::
 
 ## Peer-reviewed journal publications
 
@@ -41,11 +52,3 @@ subtitle: "Journal articles, manuscripts, conference contributions, and patent a
 1. Gu, C.; Thyashan, N.; **Joty, K.**; Alexandrakis, G.; Edel, J. B.; Taniguchi, M.; Lee, S.; Kim, M. J. “Solid-State Nanopore Platforms as Multi-Physics Single-Entity Microscopes.” **Submitted.**
 
 2. Khatri, S.; Ge, X.; Manawasinghe, J.; **Joty, K.**; Thyashan, N.; Qin, Z.; Kim, M. J. “Single-Particle Resistive-Pulse Sensing Reveals Progressive Mechanical Stiffening of Lipid Nanoparticles by DNA Encapsulation and Peptide Conjugation.” **Submitted.**
-
-## Manuscripts in preparation
-
-1. Gu, C.; Lee, S.; **Joty, K.**; Thyashan, N.; Kim, M. J. “P.O.R.E.: An Open-Source, Low-Cost Platform for Chemically-Tuned Controlled Dielectric Breakdown Nanopore Fabrication.” **In preparation.**
-
-## Patent application
-
-Kim, M. J.; **Joty, K.**; Gu, C. “Heterogeneous Multilayer Nanopores.” U.S. Provisional Patent Application No. **63/998,374**. Filed **September 28, 2026**. **Pending.**

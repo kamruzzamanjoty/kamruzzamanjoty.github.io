@@ -8,7 +8,7 @@ toc: false
 ::: {.research-intro}
 I build nanopores and measure the electrical signals that molecules produce as they pass through them. At the [BAST Laboratory](https://bastlabs.org/) at Southern Methodist University, I study how pore geometry and material interfaces change those signals and develop instruments that make nanopore experiments easier to run.
 
-[Publications](publications.qmd){.btn .btn-primary} [Research techniques and skills](experience.qmd#research-techniques-and-skills){.btn .btn-outline-primary}
+[Publications](publications.qmd){.btn .btn-primary} [Talks and posters](conferences.qmd#research-presentations){.btn .btn-outline-primary} [Research techniques and skills](experience.qmd#research-techniques-and-skills){.btn .btn-outline-primary}
 :::
 
 ## Current research
@@ -28,9 +28,9 @@ I study hybrid nanopores for single-molecule sensing, with a focus on understand
 
 [2026–present]{.research-period}
 
-I co-developed a programmable instrument that fabricates solid-state nanopores using controlled dielectric breakdown. I led the mechanical and fluidic design, built interchangeable flow-cell cartridges, and helped validate the assembled system.
+I co-developed a low-cost research instrument for nanopore fabrication.
 
-[Read about the instrument](projects/instrumentation.qmd)
+[Read the published IEEE Access paper](https://doi.org/10.1109/ACCESS.2026.3727354)
 :::
 
 ::: {.research-card}

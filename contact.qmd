@@ -8,9 +8,18 @@ subtitle: "Research, engineering, and collaboration"
 Ph.D. Candidate, Mechanical Engineering\
 [BAST Laboratory](https://bastlabs.org/) · Southern Methodist University\
 Dallas, Texas, United States\
-[Email: kjoty@smu.edu](mailto:kjoty@smu.edu)
+[Email: kjoty@smu.edu](mailto:kjoty@smu.edu){.btn .btn-primary}
 
 My interests include hybrid nanopore sensing, nanoscale device fabrication, experimental instrumentation, and computational analysis.
+
+## Visit the lab
+
+**BAST Laboratory, Southern Methodist University**\
+2701 Fondren Drive, Dallas, TX 75206
+
+<div class="contact-map"><iframe src="https://maps-api-ssl.google.com/maps?hl=en-US&amp;ll=32.84461,-96.772881&amp;output=embed&amp;q=2701+Fondren+Dr,+Dallas,+TX+75206,+United+States+(BAST+Labs)&amp;z=16" title="Map of BAST Laboratory at Southern Methodist University" width="800" height="360" loading="lazy" referrerpolicy="no-referrer"></iframe></div>
+
+[Open in Google Maps](https://www.google.com/maps/search/?api=1&query=2701+Fondren+Drive+Dallas+TX+75206){.btn .btn-outline-primary}
 
 ## Professional profiles
 

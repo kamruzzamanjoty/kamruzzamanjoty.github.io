@@ -4,6 +4,7 @@ project:
   resources:
     - assets/**
     - scripts/visitor-stats.js
+    - scripts/photo-gallery.js
   render:
     - "*.qmd"
     - "projects/*.qmd"
@@ -27,18 +28,24 @@ website:
         text: Research
       - href: publications.qmd
         text: Publications
-      - href: covers.qmd
+      - href: journal-covers.qmd
         text: Covers
-      - href: talks-news.qmd
-        text: Talks & News
-      - href: portfolio.qmd
+      - href: engineering-portfolio.qmd
         text: Engineering
       - href: experience.qmd
         text: Experience
-      - href: writing.qmd
-        text: Writing
-      - href: cv.qmd
+      - href: professional-profile.qmd
         text: Profile
+      - text: More
+        menu:
+          - href: talks-news.qmd
+            text: Talks & News
+          - href: conferences.qmd
+            text: Conferences & Seminars
+          - href: professional-profile.qmd#honors-and-awards
+            text: Honors & Awards
+          - href: writing.qmd
+            text: Writing
       - href: contact.qmd
         text: Contact
   page-footer:
@@ -53,7 +60,7 @@ format:
     canonical-url: true
     include-in-header: includes/google-verification.html
     theme: [cosmo, styles/custom.scss]
-    css: styles/site-v3.css
+    css: [styles/site-v3.css, styles/site-media.css]
     include-after-body: includes/visitor-stats.html
     toc: true
     smooth-scroll: true

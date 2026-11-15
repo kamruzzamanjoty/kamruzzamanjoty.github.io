@@ -19,10 +19,16 @@ I am a Mechanical Engineering Ph.D. candidate at Southern Methodist University. 
 
 <div class="hero-actions"><a href="research.html">Explore research →</a><a class="secondary" href="assets/Kamruzzaman-Joty-Industry-Resume.pdf">Industry résumé</a><a class="secondary" href="mailto:kjoty@smu.edu?subject=Academic%20CV%20request">Request academic CV</a></div>
 :::
-<div class="hero-portrait"><img src="assets/kamruzzaman-joty.jpg" alt="Portrait of Kamruzzaman Joty" width="1365" height="1365"></div>
+<div class="hero-portrait"><img src="assets/site-media/google-portrait.webp" alt="Portrait of Kamruzzaman Joty" ></div>
 :::
 
 ::: {.container-lg}
+
+<div class="affiliation-strip" aria-label="Academic affiliations">
+<a href="https://www.smu.edu/"><img src="assets/site-media/smu.webp" alt="Southern Methodist University"></a>
+<a href="https://www.smu.edu/lyle"><img src="assets/site-media/lyle.webp" alt="Lyle School of Engineering"></a>
+<a href="https://bastlabs.org/"><img src="assets/site-media/bast-lab.webp" alt="BAST Laboratory"></a>
+</div>
 
 <p class="section-label">RESEARCH / ENGINEERING</p>
 
@@ -30,12 +36,33 @@ I am a Mechanical Engineering Ph.D. candidate at Southern Methodist University. 
 
 <div class="project-grid">
 <div class="project-card"><div class="tag">Current research</div><h3>Hybrid nanopore sensing</h3><p>Ongoing research on hybrid nanopores for single-molecule sensing.</p><a href="research.html#hybrid-nanopore-sensing">Explore research →</a></div>
-<div class="project-card"><div class="tag">Current research</div><h3>Programmable nanopore fabrication</h3><p>Experimental automation and controlled dielectric breakdown for nanoscale device fabrication.</p><a href="projects/instrumentation.html">Explore project →</a></div>
+<div class="project-card"><div class="tag">Current research</div><h3>Programmable nanopore fabrication</h3><p>A published project on low-cost research instrumentation.</p><a href="https://doi.org/10.1109/ACCESS.2026.3727354">Read the paper →</a></div>
 <div class="project-card"><div class="tag">Current research</div><h3>Modeling and machine learning</h3><p>Multiphysics simulations and event-level analysis for understanding and classifying nanopore measurements.</p><a href="projects/modeling-ml.html">Explore project →</a></div>
 <div class="project-card"><div class="tag">Published research</div><h3>Multilayer heterostructure nanopores</h3><p>Investigating how layered two-dimensional materials and pore geometry affect directional molecular transport.</p><a href="projects/heterostructures.html">Explore project →</a></div>
 <div class="project-card"><div class="tag">Published research</div><h3>DNA-hosted silver nanoclusters</h3><p>Studying voltage-dependent transport and electrolyte stability through solid-state nanopore measurements.</p><a href="projects/silver-nanoclusters.html">Explore project →</a></div>
 <div class="project-card"><div class="tag">Published research</div><h3>DNA origami hybrid nanopores</h3><p>Incorporating three-dimensional DNA origami into solid-state nanopores to improve protein translocation measurements.</p><a href="projects/dna-origami.html">Explore project →</a></div>
 </div>
+
+## Selected highlights
+
+::: {.highlight-grid}
+
+::: {.highlight-card}
+[Three Minute Thesis](talks-news.qmd#three-minute-thesis)\
+People’s Choice Award, SMU, 2025.
+:::
+
+::: {.highlight-card}
+[Journal covers](journal-covers.qmd)\
+Cover artwork for two published nanopore studies.
+:::
+
+::: {.highlight-card}
+[Research coverage](talks-news.qmd#research-in-the-news)\
+Read the SMU Lyle, Phys.org, and Newswise features.
+:::
+
+:::
 
 ## About my work
 
@@ -43,6 +70,6 @@ My research spans membrane fabrication, heterogeneous interfaces, ionic-current 
 
 [Watch my Three Minute Thesis presentation](talks-news.html){.btn .btn-outline-primary}
 
-[Read my research overview](research.html) · [See publications](publications.html) · [Teaching & service](experience.html) · [Education & awards](cv.html) · [Contact me](contact.html)
+[Read my research overview](research.html) · [See publications](publications.html) · [Teaching & service](experience.html) · [Education & awards](professional-profile.html) · [Contact me](contact.html)
 
 :::

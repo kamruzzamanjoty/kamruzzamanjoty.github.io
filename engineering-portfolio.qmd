@@ -2,23 +2,25 @@
 title: "Engineering Portfolio"
 description: "Kamruzzaman Joty’s engineering experience in nanopore fabrication, instrumentation, COMSOL modeling, machine learning, CFD, and semiconductor coursework."
 subtitle: "Fabrication, instrumentation, modeling, and data"
+aliases:
+  - portfolio.html
 ---
 
 My engineering work connects nanoscale manufacturing and materials integration with electrical measurement, multiphysics transport, and computational analysis.
 
 ## Nanofabrication and device integration
 
-My research includes solid-state and hybrid nanopore fabrication, heterogeneous membrane preparation, electrical characterization, and integration into measurement systems. I applied and adapted the laboratory’s existing chemically tuned controlled dielectric breakdown (CT-CDB) method to multilayer structures combining silicon nitride with graphene, MoS₂, and hBN.
+My research includes solid-state and hybrid nanopore fabrication, heterogeneous membrane preparation, electrical characterization, and integration into measurement systems.
 
 [Multilayer nanopore research](projects/heterostructures.qmd)
 
 ## Instrumentation and automation
 
-I contributed to P.O.R.E. (Programmable Ohmic Research Engine), leading mechanical and microfluidic design, cartridge fabrication, system assembly, and validation experiments.
+I contributed to an instrumentation project described in [IEEE Access](https://doi.org/10.1109/ACCESS.2026.3727354).
 
 My laboratory experience includes the Park Systems NX-12 AFM, JEOL SEM, Axopatch electrical measurement systems, and Sutter Instrument P-2000 laser micropipette puller, alongside equipment calibration, troubleshooting, and data acquisition.
 
-[Programmable fabrication project](projects/instrumentation.qmd)
+[Published instrumentation paper](https://doi.org/10.1109/ACCESS.2026.3727354)
 
 ## Modeling and analysis
 
@@ -49,4 +51,4 @@ I conducted a literature review of three-dimensional printing for surgical plann
 
 Graduate coursework and laboratory exposure covered semiconductor fabrication fundamentals, cleanroom processing, photolithography, photoresist processing, mask alignment, thermal oxidation, diffusion, etching, metallization, and MOSFET fabrication and testing. This preparation complements my hands-on research in nanopore fabrication.
 
-[Industry experience](experience.qmd#industry-experience) · [Education](cv.qmd#education)
+[Industry experience](experience.qmd#industry-experience) · [Education](professional-profile.qmd#education)

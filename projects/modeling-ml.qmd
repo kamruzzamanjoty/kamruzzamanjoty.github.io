@@ -14,12 +14,8 @@ How can modeling and data analysis connect heterogeneous nanopore structure with
 
 I used COMSOL simulations to investigate electric-field distributions and transport behavior in heterogeneous nanopores. Quantitative signal analysis and event-feature extraction support statistical comparisons and machine-learning classification of experimental signals.
 
-I used stacked ensemble classification to distinguish membrane architectures and Gaussian mixture modeling to examine subpopulations of translocation events.
-
-In this research, I developed structural-classification approaches that achieved **more than 96% classification accuracy** on the experimental signals studied. This result describes the specific research analysis; performance on other devices or datasets requires separate evaluation.
-
 ## Related work
 
-[Multilayer heterostructure research](heterostructures.qmd) connects these methods with device fabrication and directional transport. [Research presentations](../talks-news.qmd#research-presentations) include my work on machine-learning-enabled nanopore biosensing.
+[Multilayer heterostructure research](heterostructures.qmd) connects these methods with device fabrication and directional transport. [Research presentations](../conferences.qmd#research-presentations) include my work on machine-learning-enabled nanopore biosensing.
 
 [← All research projects](../research.qmd)
