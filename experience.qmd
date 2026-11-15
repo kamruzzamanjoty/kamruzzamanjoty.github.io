@@ -3,16 +3,22 @@ title: "Experience, Teaching & Service"
 description: "Kamruzzaman Joty’s research and industry experience, mechanical engineering teaching, student mentoring, university leadership, and community service."
 ---
 
-<div class="affiliation-strip compact" aria-label="Research and teaching affiliations">
-<a href="https://www.smu.edu/lyle"><img src="assets/site-media/lyle.webp" alt="Lyle School of Engineering"></a>
-<a href="https://bastlabs.org/"><img src="assets/site-media/bast-lab.webp" alt="BAST Laboratory"></a>
-</div>
-
 ## Research experience
 
+:::: {.organization-layout}
+
+::: {.organization-copy}
 **Research Assistant · BAST Laboratory, Southern Methodist University · January 2023–Present**
 
 I conduct research in nanoscale fabrication, materials integration, device characterization, and single-molecule transport. My responsibilities include electrical measurements, experimental data analysis, manuscript contributions, and support for undergraduate and graduate laboratory activities. [Explore my research](research.qmd).
+:::
+
+<aside class="organization-logos" aria-label="Organization logos">
+<img src="assets/site-media/lyle.webp" alt="Lyle School of Engineering" loading="lazy">
+<img src="assets/site-media/bast-lab.webp" alt="BAST Laboratory" loading="lazy">
+</aside>
+
+::::
 
 ## Research techniques and skills
 
@@ -61,13 +67,19 @@ Supported technical and operational management and coordinated technical and man
 
 ### Bangladesh-India Friendship Power Company Ltd. · Bangladesh
 
-<div class="affiliation-strip compact logo-row">
-<img src="assets/site-media/bifpcl.webp" alt="Bangladesh-India Friendship Power Company Limited" loading="lazy">
-</div>
+:::: {.organization-layout}
 
+::: {.organization-copy}
 **Industrial Trainee · Maitree Super Thermal Power Plant · June–September 2021**
 
 Supported mechanical engineering and project-management activities during construction of a **2 × 660 MW** thermal power plant. I assisted with supervision and coordination of mechanical equipment erection in collaboration with the mechanical engineering department, gaining practical experience in large-scale industrial project execution.
+:::
+
+<aside class="organization-logos" aria-label="Organization logos">
+<img src="assets/site-media/bifpcl.webp" alt="Bangladesh-India Friendship Power Company" loading="lazy">
+</aside>
+
+::::
 
 ## Professional service
 
@@ -75,32 +87,36 @@ Peer reviewer for *ACS Omega* (American Chemical Society), 2026.
 
 ## University leadership and academic service
 
-<div class="affiliation-strip compact logo-row">
-<img src="assets/site-media/smu-senate.webp" alt="SMU Student Senate" loading="lazy">
-<img src="assets/site-media/alpha-chi.webp" alt="Alpha Chi National College Honor Society" loading="lazy">
-<img src="assets/site-media/asme.webp" alt="American Society of Mechanical Engineers" loading="lazy">
-</div>
+:::: {.organization-layout}
 
+::: {.organization-copy}
 As a Lyle Senator in the 112th SMU Student Senate, I authored a resolution supporting a university-wide en-route master’s pathway for Ph.D. students. The Senate passed the resolution. I received the Student Senate Senior Award in 2026.
 
 | Period | Role |
 |:--|:--|
 | 2025–2026 | Lyle Senator, SMU Student Senate; represented engineering students in university governance |
-| 2025 | Category Judge, Dallas Regional Science and Engineering Fair (biomedical science, engineering technology, and materials science) |
-| 2025 | Instructor and Research Mentor, GSTCA (student nanopore research and data analysis) |
 | 2019–2022 | University Liaison Officer, Institution of Mechanical Engineers |
 | 2019–2021 | Ambassador, International Global Network |
 | 2019–2020 | Liaison Officer, Asia World Model United Nations II |
 | 2019–2020 | Treasurer, Institution of Engineers Malaysia, SEGi Student Chapter |
 | 2018 | Director of Logistics, Hult Prize, SEGi University |
+:::
+
+<aside class="organization-logos" aria-label="Organization logos">
+<img src="assets/site-media/smu-senate.webp" alt="SMU Student Senate" loading="lazy">
+</aside>
+
+::::
 
 ## Community service
 
-<div class="affiliation-strip compact logo-row">
-<img src="assets/site-media/red-cross.webp" alt="American Red Cross" loading="lazy">
-<img src="assets/site-media/drsef.webp" alt="Dallas Regional Science and Engineering Fair" loading="lazy">
-<img src="assets/site-media/gstca.webp" alt="Governor’s Science and Technology Champions’ Academy" loading="lazy">
-</div>
+:::: {.organization-layout}
+
+::: {.organization-copy}
+**Category Judge · Dallas Regional Science and Engineering Fair · 2025**\
+Evaluated student projects in biomedical science, engineering technology, and materials science.
+
+[Governor’s Science and Technology Champions’ Academy mentoring](#student-research-mentoring)
 
 **Organizing Volunteer · International Conference on Industry 4.0 · SEGi University, Malaysia · 2019**
 
@@ -109,5 +125,34 @@ Transported blood and blood products among Red Cross laboratories, hospitals, an
 
 **FIFA World Cup 2026 · Access Management Volunteer · Dallas, Texas · 2026**\
 Supported International Broadcast Center access operations, including accreditation checks and resolution of access-related issues.
+:::
 
-[Education, awards, and professional associations](professional-profile.qmd) · [Research presentations](talks-news.qmd)
+<aside class="organization-logos" aria-label="Organization logos">
+<img src="assets/site-media/red-cross.webp" alt="American Red Cross" loading="lazy">
+<img src="assets/site-media/drsef.webp" alt="Dallas Regional Science and Engineering Fair" loading="lazy">
+<img src="assets/site-media/gstca.webp" alt="Governor’s Science and Technology Champions’ Academy" loading="lazy">
+<img src="assets/site-media/fifa-world-cup.webp" alt="FIFA World Cup" loading="lazy">
+</aside>
+
+::::
+
+## Professional associations
+
+:::: {.organization-layout}
+
+::: {.organization-copy}
+- Student Member, American Society of Mechanical Engineers (ASME), 2023–present.
+- Associate Member, Sigma Xi, The Scientific Research Honor Society, 2026–present.
+- Graduate Student Member, Alpha Chi National College Honor Society, 2026–present.
+- Former Affiliate Member, Institution of Mechanical Engineers (IMechE), 2018–2023.
+:::
+
+<aside class="organization-logos" aria-label="Organization logos">
+<img src="assets/site-media/alpha-chi.webp" alt="Alpha Chi National College Honor Society" loading="lazy">
+<img src="assets/site-media/sigma-xi.webp" alt="Sigma Xi" loading="lazy">
+<img src="assets/site-media/asme.webp" alt="American Society of Mechanical Engineers" loading="lazy">
+</aside>
+
+::::
+
+[Education](professional-profile.qmd#education) · [Honors and awards](honors-and-awards.qmd) · [Research presentations](conferences.qmd)

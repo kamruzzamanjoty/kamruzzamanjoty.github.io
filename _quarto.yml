@@ -42,7 +42,7 @@ website:
             text: Talks & News
           - href: conferences.qmd
             text: Conferences & Seminars
-          - href: professional-profile.qmd#honors-and-awards
+          - href: honors-and-awards.qmd
             text: Honors & Awards
           - href: writing.qmd
             text: Writing
@@ -61,7 +61,6 @@ format:
     include-in-header: includes/google-verification.html
     theme: [cosmo, styles/custom.scss]
     css: [styles/site-v3.css, styles/site-media.css]
-    include-after-body: includes/visitor-stats.html
     toc: true
     smooth-scroll: true
     title-block-banner: false

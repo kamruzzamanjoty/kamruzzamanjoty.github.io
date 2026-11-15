@@ -10,16 +10,14 @@ Ph.D. Candidate, Mechanical Engineering\
 Dallas, Texas, United States\
 [Email: kjoty@smu.edu](mailto:kjoty@smu.edu){.btn .btn-primary}
 
-My interests include hybrid nanopore sensing, nanoscale device fabrication, experimental instrumentation, and computational analysis.
-
 ## Visit the lab
 
 **BAST Laboratory, Southern Methodist University**\
-2701 Fondren Drive, Dallas, TX 75206
+Embrey Engineering Bldg, 3101 Dyer St Ste 105, Dallas, TX 75205
 
-<div class="contact-map"><iframe src="https://maps-api-ssl.google.com/maps?hl=en-US&amp;ll=32.84461,-96.772881&amp;output=embed&amp;q=2701+Fondren+Dr,+Dallas,+TX+75206,+United+States+(BAST+Labs)&amp;z=16" title="Map of BAST Laboratory at Southern Methodist University" width="800" height="360" loading="lazy" referrerpolicy="no-referrer"></iframe></div>
+<div class="contact-map"><iframe src="https://maps.google.com/maps?q=Embrey%20Engineering%20Bldg%2C%203101%20Dyer%20St%20Ste%20105%2C%20Dallas%2C%20TX%2075205&amp;z=17&amp;output=embed" title="Map of BAST Laboratory at Southern Methodist University" width="800" height="360" loading="lazy" referrerpolicy="no-referrer"></iframe></div>
 
-[Open in Google Maps](https://www.google.com/maps/search/?api=1&query=2701+Fondren+Drive+Dallas+TX+75206){.btn .btn-outline-primary}
+[Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Embrey%20Engineering%20Bldg%2C%203101%20Dyer%20St%20Ste%20105%2C%20Dallas%2C%20TX%2075205){.btn .btn-outline-primary}
 
 ## Professional profiles
 
@@ -28,4 +26,4 @@ My interests include hybrid nanopore sensing, nanoscale device fabrication, expe
 - [ORCID: 0009-0001-9494-5886](https://orcid.org/0009-0001-9494-5886)
 - [ResearchGate](https://www.researchgate.net/profile/Kamruzzaman-Joty)
 
-[Request academic CV](mailto:kjoty@smu.edu?subject=Academic%20CV%20request){.btn .btn-primary} [Industry résumé (PDF)](assets/Kamruzzaman-Joty-Industry-Resume.pdf){.btn .btn-outline-primary}
+[Request academic CV](mailto:kjoty@smu.edu?subject=Academic%20CV%20request){.btn .btn-primary}

@@ -31,6 +31,6 @@ IEEE BioSensors, August 2026. [Conference paper](https://doi.org/10.1109/BIOSENS
 - North Texas Biomedical Engineering Symposium · November 14–15, 2024 (poster)
 - SMU Research & Innovation Week · April 1–5, 2024 (poster)
 
-[Related publication](https://doi.org/10.1021/acs.analchem.4c02016) · [All honors and awards](professional-profile.qmd#honors-and-awards)
+[Related publication](https://doi.org/10.1021/acs.analchem.4c02016) · [All honors and awards](honors-and-awards.qmd)
 
 [Three Minute Thesis and research coverage](talks-news.qmd){.btn .btn-outline-primary}

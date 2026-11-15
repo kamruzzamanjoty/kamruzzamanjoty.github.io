@@ -5,6 +5,7 @@ pagetitle: "Kamruzzaman Joty | Nanopore Research & Nanomanufacturing"
 include-in-header: includes/person.html
 page-layout: full
 toc: false
+include-after-body: includes/visitor-stats.html
 ---
 
 ::: {.hero}
@@ -63,10 +64,6 @@ Read the SMU Lyle, Phys.org, and Newswise features.
 :::
 
 :::
-
-## About my work
-
-My research spans membrane fabrication, heterogeneous interfaces, ionic-current measurements, and computational interpretation of single-molecule events. I am also interested in applying my experience in cleanroom processing, instrumentation, and data-driven characterization to semiconductor and nanomanufacturing engineering.
 
 [Watch my Three Minute Thesis presentation](talks-news.html){.btn .btn-outline-primary}
 

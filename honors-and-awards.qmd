@@ -1,0 +1,61 @@
+---
+title: "Honors & Awards"
+description: "Academic awards, scholarships, and certificates received by Kamruzzaman Joty."
+toc: false
+---
+
+:::: {.awards-layout}
+
+::: {.recognition-copy}
+## Recognition by year
+
+| Year | Recognition |
+|:--|:--|
+| 2026 | Senior Award, SMU Student Senate |
+| 2026 | Second Place, Outstanding Research & Presentation Award, SMU Industry Innovation Summit |
+| 2025 | Shared People’s Choice Award, SMU Three Minute Thesis Competition |
+| 2025 | Engineering is Art Award, SMU Lyle School of Engineering |
+| 2024 | Best Presentation Award, SMU Research & Innovation Week Poster Competition |
+| 2022 | Institution of Mechanical Engineers (IMechE) Project Award |
+| 2020 | Frederic Barnes Waldron Best Student Award |
+| 2017–2022 | Seven Dean’s List Awards |
+| 2018–2019 | Three High Achievers Awards |
+| 2017–2020 | Merit Scholarship |
+| 2018 | IMechE Conference Grant |
+:::
+
+::: {.recognition-photos}
+## Award and certificate photos
+
+<div class="photo-gallery awards-gallery" data-photo-gallery role="group" aria-label="Awards and certificates photo gallery">
+<figure><img src="assets/galleries/recognition-01.webp" alt="Recognition or participation certificate" loading="lazy" width="1280" height="897"></figure>
+<figure><img src="assets/galleries/recognition-02.webp" alt="Framed award certificate" loading="lazy" width="750" height="1000"></figure>
+<figure><img src="assets/galleries/recognition-03.webp" alt="Medal in a presentation case" loading="lazy" width="750" height="1000"></figure>
+<figure><img src="assets/galleries/recognition-04.webp" alt="Second view of the medal in its case" loading="lazy" width="750" height="1000"></figure>
+<figure><img src="assets/galleries/recognition-05.webp" alt="Three framed certificates displayed together" loading="lazy" width="1280" height="720"></figure>
+<figure><img src="assets/galleries/recognition-06.webp" alt="Recognition or participation certificate" loading="lazy" width="701" height="1000"></figure>
+<figure><img src="assets/galleries/recognition-07.webp" alt="Recognition or participation certificate" loading="lazy" width="707" height="1000"></figure>
+<figure><img src="assets/galleries/recognition-08.webp" alt="Recognition or participation certificate" loading="lazy" width="773" height="1000"></figure>
+<figure><img src="assets/galleries/recognition-09.webp" alt="Recognition or participation certificate" loading="lazy" width="701" height="1000"></figure>
+<figure><img src="assets/galleries/recognition-10.webp" alt="Recognition or participation certificate" loading="lazy" width="1280" height="927"></figure>
+<figure><img src="assets/galleries/recognition-11.webp" alt="Recognition or participation certificate" loading="lazy" width="701" height="1000"></figure>
+<figure><img src="assets/galleries/recognition-12.webp" alt="Recognition or participation certificate" loading="lazy" width="701" height="1000"></figure>
+<figure><img src="assets/galleries/recognition-13.webp" alt="Recognition or participation certificate" loading="lazy" width="701" height="1000"></figure>
+<figure><img src="assets/galleries/recognition-14.webp" alt="Recognition or participation certificate" loading="lazy" width="701" height="1000"></figure>
+<figure><img src="assets/galleries/recognition-15.webp" alt="Recognition or participation certificate" loading="lazy" width="701" height="1000"></figure>
+<figure><img src="assets/galleries/recognition-16.webp" alt="Framed recognition certificate" loading="lazy" width="707" height="1000"></figure>
+<figure><img src="assets/galleries/recognition-17.webp" alt="Recognition or participation certificate" loading="lazy" width="1280" height="897"></figure>
+<figure><img src="assets/galleries/recognition-18.webp" alt="Recognition or participation certificate" loading="lazy" width="701" height="1000"></figure>
+<figure><img src="assets/galleries/recognition-19.webp" alt="Recognition or participation certificate" loading="lazy" width="1280" height="897"></figure>
+<figure><img src="assets/galleries/recognition-20.webp" alt="Recognition or participation certificate" loading="lazy" width="701" height="1000"></figure>
+<div class="gallery-controls" data-gallery-controls hidden>
+<button type="button" class="btn btn-outline-primary" data-previous>Previous</button>
+<span data-gallery-status aria-live="polite"></span>
+<button type="button" class="btn btn-outline-primary" data-next>Next</button>
+</div>
+</div>
+:::
+
+::::
+
+<script src="scripts/photo-gallery.js" defer></script>
