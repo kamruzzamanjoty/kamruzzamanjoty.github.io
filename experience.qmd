@@ -14,8 +14,8 @@ I conduct research in nanoscale fabrication, materials integration, device chara
 :::
 
 <aside class="organization-logos" aria-label="Organization logos">
-<img src="assets/site-media/lyle.webp" alt="Lyle School of Engineering" loading="lazy">
-<img src="assets/site-media/bast-lab.webp" alt="BAST Laboratory" loading="lazy">
+<img src="assets/site-media/smu-lyle-lockup.webp" alt="SMU Lyle School of Engineering" loading="lazy">
+<img src="assets/site-media/bast-lab-lockup.webp" alt="BAST Laboratory" loading="lazy">
 </aside>
 
 ::::

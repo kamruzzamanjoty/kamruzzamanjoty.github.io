@@ -26,9 +26,8 @@ I am a Mechanical Engineering Ph.D. candidate at Southern Methodist University. 
 ::: {.container-lg}
 
 <div class="affiliation-strip" aria-label="Academic affiliations">
-<a href="https://www.smu.edu/"><img src="assets/site-media/smu.webp" alt="Southern Methodist University"></a>
-<a href="https://www.smu.edu/lyle"><img src="assets/site-media/lyle.webp" alt="Lyle School of Engineering"></a>
-<a href="https://bastlabs.org/"><img src="assets/site-media/bast-lab.webp" alt="BAST Laboratory"></a>
+<a href="https://www.smu.edu/lyle"><img src="assets/site-media/smu-lyle-lockup.webp" alt="SMU Lyle School of Engineering"></a>
+<a href="https://bastlabs.org/"><img src="assets/site-media/bast-lab-lockup.webp" alt="BAST Laboratory"></a>
 </div>
 
 <p class="section-label">RESEARCH / ENGINEERING</p>

@@ -4,7 +4,7 @@ description: "Academic awards, scholarships, and certificates received by Kamruz
 toc: false
 ---
 
-:::: {.awards-layout}
+:::: {.awards-layout awards-layout-wide}
 
 ::: {.recognition-copy}
 ## Recognition by year

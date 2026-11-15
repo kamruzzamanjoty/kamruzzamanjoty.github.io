@@ -52,3 +52,17 @@
   .organization-logos {display:flex;justify-content:flex-start;flex-wrap:wrap}
   .organization-logos img {width:95px;height:62px}
 }
+
+/* Give recognition text the room it needs while keeping the gallery compact. */
+.awards-layout-wide { grid-template-columns: minmax(0, 1fr); }
+.awards-layout-wide .recognition-photos { width: min(100%, 520px); }
+.recognition-copy table { width: 100%; table-layout: auto; }
+.recognition-copy table col:first-child { width: 1%; }
+.recognition-copy table col:nth-child(2) { width: auto; }
+.recognition-copy table :is(th, td):first-child { width: 1%; white-space: nowrap; padding-right: 1.25rem; }
+.recognition-copy table :is(th, td):nth-child(2) { width: auto; }
+.affiliation-strip img[src$="-lockup.webp"] { max-width: min(255px, 80vw); max-height: 62px; }
+.organization-logos img[src$="-lockup.webp"] { height: auto; }
+@media (max-width: 540px) {
+  .recognition-copy table :is(th, td):first-child { padding-right: .65rem; }
+}
