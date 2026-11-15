@@ -24,20 +24,22 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: research.qmd
-        text: Research
-      - href: publications.qmd
-        text: Publications
-      - href: journal-covers.qmd
-        text: Covers
-      - href: engineering-portfolio.qmd
-        text: Engineering
-      - href: experience.qmd
-        text: Experience
       - href: professional-profile.qmd
         text: Profile
+      - href: research.qmd
+        text: Research
+      - href: experience.qmd
+        text: Experience
+      - href: engineering-portfolio.qmd
+        text: Engineering
+      - href: publications.qmd
+        text: Publications
+      - href: contact.qmd
+        text: Contact
       - text: More
         menu:
+          - href: journal-covers.qmd
+            text: Journal Covers
           - href: talks-news.qmd
             text: Talks & News
           - href: conferences.qmd
@@ -46,8 +48,6 @@ website:
             text: Honors & Awards
           - href: writing.qmd
             text: Writing
-      - href: contact.qmd
-        text: Contact
   page-footer:
     left: "© Kamruzzaman Joty"
     right: |

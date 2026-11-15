@@ -66,3 +66,9 @@
 @media (max-width: 540px) {
   .recognition-copy table :is(th, td):first-child { padding-right: .65rem; }
 }
+
+/* Typography that uses fonts already available on the visitor's device. */
+#quarto-content :is(h1, h2, h3) { line-height: 1.2; }
+#quarto-content .hero h1 { line-height: 1.08; }
+main.content { font-size: 1rem; line-height: 1.72; }
+#quarto-content p { text-wrap: pretty; }
